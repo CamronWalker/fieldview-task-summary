@@ -1,0 +1,628 @@
+﻿Ref,Status,Location,Description,Created,Target,Type,To Organisation,To Package,Status Changed,Association,OverDue,Images,Comments,Documents
+T1.9673617,Opened,Historical Level 4 AE104>409 - Vestibule,Repair Damaged Window Sill,2022-08-22,2022-08-29,Contractor QC,"Westland Construction, Inc.",Westland -- Historic,2022-08-22,,False,True,False,
+T1.9672974,Opened,Historical Level 5 AE105>518 - Study,DEA 31-7. Balustrade at the 5th floor was installed and was made too short. It was discussed on-site to shift over and make the rosette thicker at the south side to accommodate for the extra space needed. (Photos 31-45 & 31-46),2022-08-18,2022-08-25,Field Report Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-18,,False,True,False,
+T1.9672973,Opened,Historical Level 2 AE102>222 - Vest,"DEA 31-6. Contractor needs to caulk gaps between window frames and sills. (Photo 31-35) ",2022-08-18,2022-08-25,Field Report Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-18,,False,True,True,
+T1.9672972,Opened,Annex Level 1 AE101>162 - Instruction Women,"DEA 31-5. Instruction Room 162 lighting has been installed and the canopies do not cover the rough in box openings at the ceiling. (Photo 31-25) ",2022-08-18,2022-08-25,Field Report Task,Pete King Construction,Metal Stud / Drywall,2022-08-18,,False,True,False,
+T1.9672971,Opened,Annex Level 1 AE101>139 - Vest,"DEA 31-4. Men’s Locker room screen partition wall needs to be secured to where it there is less movement when 
+leaned against. (Photo 31-20) ",2022-08-18,2022-08-25,Field Report Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-18,,False,True,False,
+T1.9672970,Opened,Site Main>Site Area K,"DEA 31-3. North Entry Pavers do not extend to the Planter wall. Please add partial pavers to fill in the space between 
+the accent boarder and the planter wall. (Photo 31-08) ",2022-08-18,2022-08-25,Field Report Task,"IMS Masonry, Inc.",Pavers,2022-08-18,,False,True,False,
+T1.9672969,Opened,Site Main>Site Area K,"DEA 31-2. North Entry Plaza “Wagon Wheel” has cracks throughout and needs to be addressed. This has been 
+discussed with the Design Team but nothing official has been sent on the fix. (Photo 31-07)",2022-08-18,2022-08-25,Field Report Task,"Innovative Concrete, LLC",Concrete,2022-08-18,,False,True,False,
+T1.9672968,Opened,Site Main>Site Area K,"DEA 31-1. Stone Cap at North Entry Plaza have a couple of pieces of stone that are very Yellow in color and do not match the other stone. Not sure If this has been discussed with the Landscape design team and the Owner on if they are to be replaced. ",2022-08-18,2022-08-25,Field Report Task,"IMS Masonry, Inc.",Exterior Stone,2022-08-18,,False,True,False,
+T77292.6,Opened,Annex Level 1 AE101>147 -  Brides Exit,Paint Incomplete / Pealing on ceiling,2022-08-18,2022-08-25,Contractor QC,"Accent Painting and Special Coatings, LLC",Paint,2022-08-18,,False,True,False,False
+T77292.5,Opened,Annex Level 1 AE101>146 - Hall,Paint Incomplete / Pealing,2022-08-18,2022-08-25,Contractor QC,"Accent Painting and Special Coatings, LLC",Paint,2022-08-18,,False,True,False,False
+T77292.4,Opened,Annex Level 1 AE101>141 - Dressing Men,Move Exit Sign up to above the door ccd forthcoming,2022-08-18,2022-08-25,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-18,,False,True,False,False
+T77292.3,Opened,Annex Level 1 AE101>141 - Dressing Men,Move Exit Sign up to above the door ccd forthcoming,2022-08-18,2022-08-25,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-18,,False,True,False,False
+T77292.2,Opened,Annex Level 1 AE101>141 - Dressing Men,Move Exit Sign up to above the door ccd forthcoming,2022-08-18,2022-08-25,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-18,,False,True,False,False
+T74290.158,Opened,Historical Level 0.5 AE100B>072 - Dressing - Girls,Drywall around lights that needed to be adjusted,2022-08-17,2022-08-18,Contractor QC,Pete King Construction,Metal Stud / Drywall,2022-08-17,,True,False,False,False
+T74290.157,Opened,Historical Level 0.5 AE100B>053 - Elevator Lobby,Complete drywall above door,2022-08-17,2022-08-18,Contractor QC,Pete King Construction,Metal Stud / Drywall,2022-08-17,,True,True,False,False
+T74290.156,Opened,Historical Level 1 AE101A,Complete backing for baseboard,2022-08-17,2022-08-18,Contractor QC,"Westland Construction, Inc.",Westland -- Historic,2022-08-17,,True,True,False,False
+T74290.155,Opened,Site Main>Site Area H,Remove paint off of pavers,2022-08-16,2022-08-17,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-16,,True,True,False,False
+T74290.154,Opened,Historical Level 0.5 AE100B>077 - Dressing - Boys,Drywall around lights that needed to be adjusted,2022-08-16,2022-08-18,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-16,,True,True,False,False
+T74290.153,Opened,Historical Level 5 AE105,Complete painting trim,2022-08-16,2022-08-18,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-16,,True,True,False,False
+T74290.152,Opened,Historical Level 5 AE105>520 - Hallway,Install  fire extinguisher box,2022-08-16,2022-08-23,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-08-16,,False,True,False,False
+T74290.151,Opened,Historical Level 5 AE105,Install exit sign,2022-08-16,2022-08-18,General Task,Wilkinson Electric Inc,Electrical,2022-08-16,,True,True,False,False
+T74290.150,Opened,Historical Level 5 AE105>521 - Instruction 11,Touch up corner of door,2022-08-16,2022-09-01,Punch List,"Accent Painting and Special Coatings, LLC",Paint,2022-08-16,,False,True,False,False
+T74290.149,Opened,Historical Level 5 AE105>521 - Instruction 11,Finish around can light in north corner of room,2022-08-16,2022-09-01,Punch List,Pete King Construction,Metal Stud / Drywall,2022-08-16,,False,True,False,False
+T74290.148,Opened,Historical Level 5 AE105>521 - Instruction 11,Touch up transom,2022-08-16,2023-09-01,Punch List,"Accent Painting and Special Coatings, LLC",Paint,2022-08-16,,False,True,False,False
+T74290.147,Opened,Historical Level 5 AE105>521 - Instruction 11,Install proper hardware,2022-08-16,2022-09-01,Punch List,Fetzers' Inc.,"Finish Carpentry ",2022-08-16,,False,True,False,False
+T74290.146,Completed,Historical Level 5 AE105>521 - Instruction 11,Install thermostat,2022-08-16,2022-09-01,Punch List,US Mechanical,HVAC,2022-08-17,,False,True,True,False
+T74290.145,Opened,Historical Level 5 AE105>521 - Instruction 11,"Install switch ",2022-08-16,2022-09-01,Punch List,Wilkinson Electric Inc,Electrical,2022-08-16,,False,True,False,False
+T74290.144,Opened,Historical Level 5 AE105>521 - Instruction 11,Touch up wall and base board,2022-08-16,2022-09-01,Punch List,"Accent Painting and Special Coatings, LLC",Paint,2022-08-16,,False,True,False,False
+T74290.143,Opened,Historical Level 5 AE105>521 - Instruction 11,Wall touch up on south east corner and west wall,2022-08-16,2022-09-01,Punch List,Pete King Construction,Metal Stud / Drywall,2022-08-16,,False,False,False,False
+T74290.142,Opened,Historical Level 0.5 AE100B>STAIR 10,Complete shaft liner to the concrete and fire caulk,2022-08-09,2022-08-11,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-09,,True,True,False,False
+T74290.141,Opened,Historical Level 3 AE103,Repaint wall from drywall repair filling in unused outlet hole,2022-08-09,2022-08-12,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-09,,True,False,False,False
+T74290.140,Opened,Historical Level 2 AE102>211 - Instruction Room B,Float out ceiling to create a smooth barrel,2022-08-09,2022-08-09,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-09,,True,True,False,False
+T74290.139,Opened,Annex Level 1 AE101,Complete installation of can lights,2022-08-04,2022-08-11,General Task,Wilkinson Electric Inc,Electrical,2022-08-04,,True,True,False,False
+T74290.138,Opened,Annex Level 1 AE101>113 - Administration,Repair countertop with additional bracing,2022-08-04,2022-08-11,General Task,"Global Stone and Tile, LLC",Tile,2022-08-04,,True,True,False,False
+T74290.137,Opened,Annex Level 1 AE101,Replace finish trim for can lights over clothing drop,2022-08-04,2022-08-11,General Task,Wilkinson Electric Inc,Electrical,2022-08-04,,True,True,False,False
+T74290.136,Opened,Annex Level 0AE100>015 - WORKER TRAINING,Repair cracks in the GFRG,2022-08-04,2022-08-11,General Task,Pete King Construction,GFRG,2022-08-04,,True,True,False,False
+T74290.135,Opened,Historical Level 2 AE102>222 - Vest,Complete trim on both exterior windows,2022-08-04,2022-08-09,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-04,,True,True,False,False
+T74290.134,Opened,Historical Level 3 AE103>329B - SE Stairs,Scuff marks on the painted walls,2022-08-04,2022-08-05,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-04,,True,True,False,False
+T74290.133,Opened,Annex Level 1 AE101>113 - Administration,Back splash is being added to the counter top,2022-08-03,2022-08-16,General Task,"Global Stone and Tile, LLC",Tile,2022-08-03,,True,False,False,False
+T74290.132,Completed,Historical Level 3 AE103>304 - Vest,Cover windows to protect from sub trade work,2022-08-03,2022-07-10,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-08-03,,True,False,False,False
+T74290.131,Completed,Annex Level 1 AE101>146 - Hall,GFRG crown mold needs to be straightened,2022-08-03,2022-07-10,General Task,Pete King Construction,GFRG,2022-08-03,,True,False,False,False
+T74290.130,Opened,Annex Level 1 AE101,Check the 56 day compressive strength of the Ada ramp rat slab,2022-08-03,2022-08-05,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-08-03,,True,False,False,False
+T74290.129,Opened,Historical Level 0.5 AE100B>082 - Clothing,Drywall touch up in 2 corners,2022-08-03,2022-08-05,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-03,,True,True,False,False
+T74290.128,Superintendent Signed Off,Annex Level 1 AE101>110 - Chapel,Center Jesus,2022-08-03,2022-08-15,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-08-17,,False,True,True,False
+T74290.127,Completed,Annex Level 1 AE101,Paint wall and window splay,2022-08-03,2022-08-05,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-09,,True,True,False,False
+T74290.126,Opened,Historical Level 1 AE101A>190 - Elevator Lobby,Complete sill,2022-08-03,2022-08-05,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-03,,True,True,False,False
+T74290.125,Opened,Annex Level 1 AE101>156 - Vest,Epoxy screws on trim,2022-08-03,2022-08-04,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-03,,True,True,False,False
+T74290.124,Opened,Historical Level 5 AE105>512 - Instruction 8,Hardware for the 5th floor is not the specified hardware for this area,2022-08-03,2022-07-26,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-03,,True,False,False,False
+T74290.123,Opened,Historical Level 4 AE104>408 - Assembly Room,Lighting canopies have not been centered in the medallions and need to be adjusted,2022-08-02,2022-08-09,General Task,Wilkinson Electric Inc,Electrical,2022-08-02,,True,False,False,False
+T74290.122,Completed,Historical Level 2 AE102>210 - Instruction Room A-3,Mural in corner is peeling from the wall and needs to be reattached,2022-08-02,2022-08-09,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-08-16,,True,False,False,False
+T74290.121,Opened,Historical Level 0.5 AE100B>067B - LANDING,Cap at half wall at stair 4 is to sharp and needs to be sanded down to a duller edge so it is less sharp,2022-08-02,2022-08-04,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-02,,True,True,False,False
+T74290.120,Opened,Historical Level 0.5 AE100B>067 - Font,"Replace and straighten tile in font. Contractor to notify architect when they are fixed for final review before grouting ",2022-08-02,2022-08-04,General Task,"Global Stone and Tile, LLC",Tile,2022-08-02,,True,True,False,False
+T74290.119,Opened,Annex Level 1 AE101>113 - Administration,Upper cabinet lighting in the admin area has been installed and has overlap in the corners,2022-08-02,2022-08-09,General Task,Wilkinson Electric Inc,Electrical,2022-08-02,,True,False,False,False
+T74290.118,Opened,Annex Level 1 AE101>101 - Entry,North Entry 101 framing at the tri arched window does not match the framing around the other interior windows,2022-08-02,2022-08-14,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-02,,True,True,False,False
+T74290.117,Opened,Historical Roof AE106,West tower top of concrete has exposed bar that needs to be covered,2022-08-02,2022-08-09,General Task,"Innovative Concrete, LLC",Concrete,2022-08-02,,True,False,False,False
+T74290.116,Opened,Annex Level 1 AE101,West historic wall at west tower addition connection need to be patched and repaired final roof wall flashing is applied,2022-08-02,2022-08-13,General Task,R. Phillips Plastering LLC,Plaster,2022-08-02,,True,False,False,False
+T74290.115,Completed,Annex Level 1 AE101,North precast panel form joint has been skimmed and waiting for review for fix,2022-08-02,2022-08-04,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-08-04,,True,True,False,False
+T74290.114,Completed,Annex Level 1 AE101,Curb at maintenance loading dock driveway was not tooled to a smooth surface,2022-08-02,2022-08-03,Field Report Task,"Innovative Concrete, LLC",Concrete,2022-08-04,,True,True,True,False
+T77326.1,Opened,Historical Level 0.5 AE100B>082 - Clothing,Touch up window paint,2022-08-02,2022-08-09,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-02,,True,True,False,False
+T74290.113,Superintendent Signed Off,Annex Level 1 AE101>109 - Waiting,Repair chip on entablature,2022-07-26,2022-07-22,General Task,Pete King Construction,GFRG,2022-07-26,,False,False,False,False
+T74290.112,Opened,Annex Level 1 AE101,"Align the concrete boxes with conduit to make them the same distance from the apron and they need to be in the same alignment with the windows ",2022-07-22,2022-07-27,General Task,Wilkinson Electric Inc,Electrical,2022-08-17,,True,True,True,False
+T74290.111,Opened,Historical Level 3 AE103>329B - SE Stairs,Finish trim between window and sill,2022-07-12,2022-07-19,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-07-12,,True,True,False,False
+T74290.110,Opened,Historical Level 3 AE103>320 - Hallway,Finish plaster around trim,2022-07-12,2022-07-14,General Task,R. Phillips Plastering LLC,Plaster,2022-07-12,,True,True,False,False
+T74290.109,Completed,Historical Level 3 AE103>321 - Study,Fill in outlet opening,2022-07-12,2022-07-14,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-09,,True,True,False,False
+T74290.108,Completed,Historical Level 2 AE102>216 - Mens Restroom,Close in vanity light box,2022-07-12,2022-07-13,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-03,,True,True,False,False
+T74290.107,Completed,Historical Level 2 AE102>215 - Womens Restroom,Close in vanity light box,2022-07-12,2022-07-13,General Task,Pete King Construction,Metal Stud / Drywall,2022-08-03,,True,True,False,False
+T1.9652847,Opened,Historical Level 3 AE103,"CxA Site Visit Report 20220706, Item 04: Floor Drain Alignment and Hanger: In one of the Janitor Storage rooms in the West Tower, the floor drain piping isn’t 
+centered with the hole in the floor. Also, a hanger support is needed. See Photo 6. ",2022-07-07,2022-07-14,Field Report Task,US Mechanical,Plumbing,2022-07-07,,True,True,,
+T1.9652846,Opened,Historical Level 2 AE102,"CxA Site Visit Report 20220706, Item 03: Shutoff Valves: In one of the Janitor Storage rooms in the West Tower, the water shutoff valves are located high in the 
+space and could be difficult to reach for maintenance. Suggest the valve locations be reviewed for acceptable access. This condition could apply for all Janitor Storage rooms in the West Tower, as the piping is installed. See Photo 5. ",2022-07-07,2022-07-14,Field Report Task,US Mechanical,Plumbing,2022-07-07,,True,True,,
+T1.9652845,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220706, Item 02: Pipe Slope and Hangers: Also, in Room 041, a section of pipe water isn’t sloped correctly and the hangers are missing or not attached. See Photos 3 and 4. ",2022-07-07,2022-07-14,Field Report Task,US Mechanical,Plumbing,2022-07-07,,True,True,,
+T1.9652844,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220706, Item 01: Missing Copper Pipe Supports:  In Room 041 Shop Storage near the ramp to the boiler room, there is a section of installed copper pipe, missing pipe support clamps. The pipe is laying on the Unistrut and clamps should be installed.  See Photos 1 and 2. ",2022-07-07,2022-07-14,Field Report Task,US Mechanical,Plumbing,2022-07-07,,True,True,,
+T74291.2,Opened,Annex Level 0AE100>040 - Elec.,Sprinkler piping throughout electrical room needs to be adjusted so as not to be over panels and equipment.￼,2022-06-28,2022-07-08,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-06-28,,True,True,False,False
+T74291.1,Opened,Historical Level 3 AE103>313 - Instruction Womens,Plumbing access cabinet for instruction sinks needs to be cleaned free of debris and insulation at access door area.,2022-06-28,2022-07-05,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-06-28,,True,False,False,False
+T74290.106,Superintendent Signed Off,Annex Level 1 AE101>138 - Folding,Exit light needs to be moved up. It is touching the casing￼,2022-06-15,2022-06-20,General Task,Wilkinson Electric Inc,Electrical,2022-07-12,,False,True,False,False
+T1.9646166,Opened,Annex Level 1 AE101,"Form joints at the precast panels have become visible at many of the panel surfaces on the exterior of the North Addition. Visibility of these markings vary through the day depending on the placement of the sunlight on the building. These surface markings are not acceptable and will need to be repaired. ",2022-06-06,2022-06-13,Field Report Task,"Accent Painting and Special Coatings, LLC",Paint,2022-06-06,,True,,,
+T74290.105,Superintendent Signed Off,Annex Level 1 AE101>152A - Jan,Prime and paint ceiling￼,2022-06-06,2022-06-08,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-07-12,,False,True,False,False
+T74290.104,Opened,Annex Level 1 AE101>152 - Women,Paint access panels￼,2022-06-06,2022-06-09,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-06-06,,True,True,False,False
+T74290.103,Superintendent Signed Off,Annex Level 1 AE101,"Exit light needs to be moved up, touching casing￼",2022-06-06,2022-06-07,General Task,Wilkinson Electric Inc,Electrical,2022-07-12,,False,True,True,False
+T74290.102,Superintendent Signed Off,Annex Level 1 AE101>114 - Family File,GFRG crack repair - mock up for future repairs,2022-05-24,2022-05-24,General Task,Pete King Construction,GFRG,2022-07-12,,False,True,False,False
+T74290.101,Opened,Historical Level 2 AE102>227 - SE Stair Tower,Smooth out joints in handrail for both north and south spiral stairs,2022-05-24,2022-05-31,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-24,,True,True,False,False
+T74290.100,Opened,Annex Level 1 AE101>162 - Instruction Women,Remove screws from inside the track￼,2022-05-20,2022-05-23,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-20,,True,True,False,False
+T74290.99,Completed,Historical Level 4 AE104>408 - Assembly Room,Clean up overspray and caulking and repaint￼,2022-05-19,2022-05-26,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-03,,True,False,False,False
+T74290.98,Completed,Historical Level 4 AE104>408 - Assembly Room,Sand and repaint￼,2022-05-19,2022-05-26,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-03,,True,True,False,False
+T74290.97,Opened,Annex Level 0AE100>015 - WORKER TRAINING,Remove paint off of finished cabinetry. Remove masking tape off walls￼,2022-05-17,2022-05-18,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-05-17,,True,True,False,False
+T74290.96,Opened,Annex Level 0AE100>015 - WORKER TRAINING,Complete ceiling paint around fire sprinkler￼,2022-05-17,2022-05-18,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-05-17,,True,True,False,False
+T74290.95,Superintendent Signed Off,Historical Level 4 AE104>414 - NE Stair Tower,Move electrical outlet up￼,2022-05-16,2022-05-17,General Task,Wilkinson Electric Inc,Electrical,2022-06-16,,False,True,False,False
+T74290.94,Opened,Historical Level 1 AE101A,Grout holes and honeycomb in exterior of walls,2022-05-13,2022-05-20,General Task,"Innovative Concrete, LLC",Concrete,2022-05-13,,True,True,False,False
+T74290.93,Completed,Historical Level 0.5 AE100B,"Grout honeycomb and holes on exterior ",2022-05-13,2022-05-20,General Task,"Innovative Concrete, LLC",Concrete,2022-08-16,,True,True,True,False
+T74290.92,Superintendent Signed Off,Historical Level 0.5 AE100B>075 - Showers - Boys,Cut off bracket,2022-05-12,2022-05-13,General Task,US Mechanical,Plumbing,2022-05-18,,False,True,False,False
+T74290.91,Opened,Annex Level 1 AE101,Seal along foundation￼,2022-05-11,2022-05-16,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-05-11,,True,True,False,False
+T74290.90,Opened,Annex Roof AE107>Roof West,Complete stainless steel drip edge along roof line￼,2022-05-11,2022-05-14,General Task,Broken Arrow Construction Corporation,Roofing,2022-05-11,,True,True,False,False
+T74290.89,Superintendent Signed Off,Annex Level 1 AE101>110 - Chapel,Drywall and finish around switch￼,2022-05-11,2022-05-14,General Task,Pete King Construction,Metal Stud / Drywall,2022-06-16,,False,True,False,False
+T74290.88,Opened,Historical Level 0.5 AE100B>STAIR 10,Need to frame in access panel￼,2022-05-10,2022-05-11,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-10,,True,True,False,False
+T74290.87,Opened,Historical Level 4 AE104>408 - Assembly Room,Straighten reveal along entablature on both north and south￼,2022-05-10,2022-05-13,General Task,Pete King Construction,GFRG,2022-05-10,,True,False,False,False
+T74290.86,Completed,Historical Level 3 AE103>310 - Instruction Womens,Straighten GFRG￼,2022-05-10,2022-05-13,General Task,Pete King Construction,GFRG,2022-05-20,,True,False,False,False
+T74290.85,Superintendent Signed Off,Annex Level 1 AE101>114 - Family File,Trim under countertops,2022-05-10,2022-05-11,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-11,,False,True,False,False
+T74290.84,Completed,Annex Level 1 AE101>169 - Dressing,Damaged cabinet door,2022-05-10,2022-05-16,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-07-12,,True,True,False,False
+T74290.83,Superintendent Signed Off,Annex Level 1 AE101>103 - Foyer,Complete GFRG￼,2022-05-09,2022-05-10,General Task,Pete King Construction,GFRG,2022-05-11,,False,False,False,False
+T74290.82,Completed,Annex Level 1 AE101>105 - Waiting,Long crack in ceiling appeared after the final coat of paint￼,2022-05-09,2022-05-12,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-24,,True,False,False,False
+T74290.81,Opened,Annex Level 1 AE101,"Complete the GFRG for window￼ and crown mold ",2022-05-06,2022-05-13,General Task,Pete King Construction,GFRG,2022-08-04,,True,True,False,False
+T74290.80,Superintendent Signed Off,Site Main>Site Area H,Flatten bulge in concrete wall of east fountain,2022-05-06,2022-05-06,General Task,"Innovative Concrete, LLC",Concrete,2022-06-06,,False,True,False,False
+T74290.79,Completed,Annex Level 1 AE101,Chisel concrete against wall,2022-05-06,2022-05-06,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-05-10,,True,True,False,False
+T74290.78,Superintendent Signed Off,Annex Level 1 AE101>176 - Youth,Complete sub top for counter installation. Cut out sink￼,2022-04-27,2022-04-28,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-02,,False,False,False,False
+T74290.77,Opened,Annex Level 1 AE101>176 - Youth,Scratches on side panel of finished cabinets￼,2022-04-27,2022-04-28,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-04-27,,True,True,False,False
+T74290.76,Superintendent Signed Off,Annex Level 0AE100>005 - VESTIBULE,Is additional stainless steel required here?￼,2022-04-27,2022-04-28,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-06-16,,False,True,False,False
+T74290.75,Superintendent Signed Off,Historical Level 0.5 AE100B>051 - HALLWAY,Cut out access panel￼,2022-04-27,2022-04-28,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-02,,False,True,False,False
+T74290.74,Opened,Annex Level 1 AE101,Seal around roof drains (3),2022-04-27,2022-04-28,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-27,,True,True,False,False
+T74290.73,Superintendent Signed Off,Annex Level 1 AE101>132B - Clothing,Install countertop￼,2022-04-26,2022-04-28,General Task,"Global Stone and Tile, LLC",Tile,2022-07-12,,False,False,False,False
+T74290.72,Superintendent Signed Off,Annex Level 1 AE101>114 - Family File,Address gaps on ends of countertops,2022-04-25,2022-04-26,General Task,"Global Stone and Tile, LLC",Tile,2022-05-24,,False,True,False,False
+T74290.71,Completed,Annex Level 1 AE101>105 - Waiting,Repair the cracks in the windows splays,2022-04-25,2022-04-28,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-02,,True,True,True,False
+T74290.70,Completed,Annex Level 1 AE101>131 - Elev Lobby,Complete floor leveling,2022-04-25,2022-04-27,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-05-06,,True,True,False,False
+T74290.69,Opened,Annex Roof AE107>Roof Center,How do we finish the base of each column on the top of the annex￼,2022-04-21,2022-04-22,General Task,Pete King Construction,Metal Stud / Drywall,2022-04-21,,True,True,False,False
+T74290.68,Completed,Annex Level 1 AE101>102A - Vestibule,Complete windowsill￼,2022-04-21,2022-04-22,General Task,R. Phillips Plastering LLC,Plaster,2022-08-09,,True,True,False,False
+T74290.67,Completed,Annex Level 0AE100>002 - Electrical,Complete drywall above door and finish￼,2022-04-21,2022-04-22,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-18,,True,True,False,False
+T74290.66,Superintendent Signed Off,Historical Level 1 AE101A>183 - Storage,Paint walls￼,2022-04-20,2022-04-21,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-04-21,,False,True,False,False
+T74290.65,Superintendent Signed Off,Annex Level 1 AE101>151 - Folding,Complete marble base￼,2022-04-19,2022-04-20,General Task,"Global Stone and Tile, LLC",Tile,2022-04-21,,False,True,False,False
+T74290.64,Superintendent Signed Off,Annex Level 1 AE101>151 - Folding,Fill gap behind trim￼,2022-04-19,2022-04-20,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-02,,False,True,False,False
+T74290.63,Completed,Annex Level 1 AE101>110 - Chapel,File the tops of the columns￼,2022-04-19,2022-04-20,General Task,Pete King Construction,GFRG,2022-04-21,,True,True,False,False
+T74290.62,Opened,Annex Level 1 AE101>101 - Entry,Complete baseboard backing￼,2022-04-19,2022-04-20,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-19,,True,True,False,False
+T74290.61,Completed,Historical Level 1 AE101A,Complete the trim on top of the door casing along the curved wall￼,2022-04-19,2022-04-26,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-06-06,,True,True,False,False
+T74290.60,Completed,Annex Level 1 AE101,Patch hole on exterior wall,2022-04-19,2022-04-19,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-05-10,,True,True,False,False
+T74290.59,Completed,Annex Level 1 AE101>109 - Waiting,Caulk around all the bases of the columns,2022-04-18,2022-05-11,General Task,"Global Stone and Tile, LLC",Tile,2022-05-18,,True,True,False,False
+T74290.58,Opened,Historical Level 3 AE103>Level 2 East Stairs,Fill in honeycomb and holes with non shrink grout,2022-04-15,2022-04-20,General Task,"Innovative Concrete, LLC",Concrete,2022-04-15,,True,False,False,False
+T74290.57,Opened,Historical Level 2 AE102>Level 2 West Stair Tower,Fill in honeycomb and holes￼ with non shrink grout,2022-04-15,2022-04-18,General Task,"Innovative Concrete, LLC",Concrete,2022-04-15,,True,False,False,False
+T74290.56,Completed,Historical Level 4 AE104>Level 4 East Stair Tower,Level form for the forming of the window opening￼,2022-04-15,2022-04-15,General Task,"Innovative Concrete, LLC",Concrete,2022-06-16,,True,False,False,False
+T74290.55,Completed,Historical Level 4 AE104>410 - Study,Complete landing below handrail in front of window,2022-04-15,2022-04-22,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-08-03,,True,True,True,False
+T74290.54,Completed,Historical Level 0.5 AE100B>STAIR 10,Measurement from wall to handrail is 33 inches. Will this pass code?￼,2022-04-14,2022-04-14,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-04-19,,True,True,True,False
+T74290.53,Superintendent Signed Off,Annex Level 1 AE101>114 - Family File,Does this MDF need to be changed to half inch MDF￼,2022-04-14,2022-04-14,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-04-21,,False,True,False,False
+T74290.52,Superintendent Signed Off,Annex Level 1 AE101>157 - Elec.,Install drywall for fire break￼,2022-04-14,2022-04-14,General Task,Pete King Construction,Metal Stud / Drywall,2022-04-19,,False,True,False,False
+T74290.51,Superintendent Signed Off,Annex Level 1 AE101>157 - Elec.,Change sprinkler head to nonflexible￼,2022-04-14,2022-04-18,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-05-12,,False,True,True,False
+T74290.50,Superintendent Signed Off,Annex Level 1 AE101,Complete cap for baseboard￼,2022-04-13,2022-04-14,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-02,,False,True,False,False
+T74290.49,Superintendent Signed Off,Historical Level 0.5 AE100B>067C - STAIR 4,Finished exposed beam￼,2022-04-13,2022-04-19,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-06-16,,False,True,False,False
+T74290.48,Completed,Historical Level 0.5 AE100B>052D - Storage,Remove and replace walls as per new specs￼,2022-04-13,2022-04-14,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-02,,True,True,False,False
+T74290.47,Superintendent Signed Off,Historical Level 0.5 AE100B>067C - STAIR 4,Frame and drywall above pipe￼ to the height of the opening to the right,2022-04-13,2022-04-14,General Task,Pete King Construction,Metal Stud / Drywall,2022-04-25,,False,True,False,False
+T74290.46,Superintendent Signed Off,Historical Level 3 AE103>323 - Instruction Men,Remove shims at the top of the columns￼,2022-04-13,2022-04-14,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-04-13,,False,True,False,False
+T74290.45,Superintendent Signed Off,Annex Level 1 AE101>121A - Jan,Prime and paint ceiling￼,2022-04-13,2022-04-15,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-05-24,,False,True,False,False
+T74290.44,Superintendent Signed Off,Annex Level 1 AE101>125 - Receiving Restroom,Complete the grout around the base of the toilet￼,2022-04-13,2022-05-11,General Task,"Global Stone and Tile, LLC",Tile,2022-07-12,,False,True,False,False
+T74290.43,Opened,Annex Level 0AE100>007 - Custodial Supply Office,Re/Re floor tile,2022-04-13,2022-04-20,General Task,"Global Stone and Tile, LLC",Tile,2022-04-13,,True,True,False,False
+T74290.42,Superintendent Signed Off,Annex Level 1 AE101>162 - Instruction Women,Prime and paint wall￼,2022-04-13,2022-04-13,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-05-10,,False,True,False,False
+T74290.41,Superintendent Signed Off,Historical Level 3 AE103>308 - Womens Restroom,Raise sconce light up to proper elevation￼,2022-04-12,2022-04-13,General Task,Wilkinson Electric Inc,Electrical,2022-06-28,,False,False,True,False
+T74290.40,Superintendent Signed Off,Historical Level 3 AE103>328 - Mens Restroom,Raise sconce light to proper elevation￼,2022-04-12,2022-04-13,General Task,Wilkinson Electric Inc,Electrical,2022-06-28,,False,True,True,False
+T74290.39,Superintendent Signed Off,Historical Level 1 AE101A>186 - Womens Restroom,"align electrical sconce rough in with plumbing and sink rough in.
+Also raise sconce to correct elevation￼",2022-04-12,2022-04-19,General Task,Wilkinson Electric Inc,Electrical,2022-04-15,,False,False,False,False
+T74290.38,Superintendent Signed Off,Annex Level 1 AE101>111 - Instruction 1,Finish the stars and the Quatre foil on the entablature￼,2022-04-12,2022-04-12,General Task,Pete King Construction,GFRG,2022-05-10,,False,False,False,False
+T74290.37,Superintendent Signed Off,Annex Level 1 AE101>109 - Waiting,Skim coat the cove along the ceiling prep for primer￼,2022-04-11,2022-04-12,General Task,Pete King Construction,Metal Stud / Drywall,2022-04-15,,False,False,False,False
+T74290.36,Opened,Annex Roof AE107>Roof South,Install flashing,2022-04-11,2022-04-18,General Task,Broken Arrow Construction Corporation,Roofing,2022-04-11,,True,True,False,False
+T74290.35,Opened,Annex Roof AE107>Roof South,Clean out all roof drains,2022-04-11,2022-04-18,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-11,,True,True,False,False
+T74290.34,Opened,Annex Roof AE107>Roof South,Waterproof joint￼,2022-04-11,2022-04-18,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-11,,True,True,False,False
+T74290.33,Opened,Annex Roof AE107,Seal along bottom of each of the tall windows on the roof of the bright hallway￼,2022-04-11,2022-04-18,General Task,Broken Arrow Construction Corporation,Roofing,2022-04-11,,True,True,False,False
+T74290.32,Completed,Annex Level 1 AE101>101 - Entry,Finish the headers separate from the jamb and do not caulk the edges￼,2022-04-11,2022-04-18,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-08-09,,True,True,True,False
+T74290.31,Completed,Historical Level 1 AE101A>189 - Jan,Position of fittings to be in the wall￼,2022-04-11,2022-04-12,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-07-12,,True,True,False,False
+T74290.30,Completed,Historical Level 1 AE101A>184 - Stair Lobby,Move access panel to the north 6 inches￼,2022-04-11,2022-04-12,General Task,Pete King Construction,Metal Stud / Drywall,2022-04-13,,True,True,True,False
+T74290.29,Superintendent Signed Off,Historical Level 0.5 AE100B>052 - Stair Lobby,Complete conduit to be able to get ready for sheet rock￼,2022-04-11,2022-04-12,General Task,Wilkinson Electric Inc,Electrical,2022-06-28,,False,True,False,False
+T74290.28,Superintendent Signed Off,Historical Level 0.5 AE100B>052 - Stair Lobby,Complete conduit to be able to get ready for sheet rock￼,2022-04-11,2022-04-12,General Task,Wilkinson Electric Inc,Electrical,2022-06-28,,False,True,True,False
+T74290.27,Opened,Historical Level 5 AE105,Thresholds have gaps on the sides,2022-04-11,2022-04-15,General Task,"Global Stone and Tile, LLC",Tile,2022-04-11,,True,True,False,False
+T74290.26,Opened,Annex Roof AE107>Roof West,Complete exterior around circle windows,2022-04-11,2022-04-22,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-11,,True,True,False,False
+T55794.12,Opened,Historical Level 2 AE102>209 - Instruction Room A-2,duct insulation at barrel ceiling needs to be reinstalled. (Barrel ceiling of level 3),2022-04-06,2022-04-13,General Task,US Mechanical,HVAC,2022-04-06,,True,True,False,False
+T55794.11,Superintendent Signed Off,Historical Level 1 AE101A>184 - Stair Lobby,Fire caulking required at all penetrations this wall.,2022-04-05,2022-04-12,General Task,US Mechanical,HVAC,2022-04-19,,False,True,True,False
+T55794.10,Superintendent Signed Off,Historical Level 1 AE101A>184 - Stair Lobby,fire caulking required at all wall penetrations this wall.,2022-04-05,2022-04-12,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-04-21,,False,True,False,False
+T55794.9,Superintendent Signed Off,Historical Level 1 AE101A>184 - Stair Lobby,Fire caulking required at all wall penetrations this location.,2022-04-05,2022-04-12,General Task,US Mechanical,Plumbing,2022-04-19,,False,False,True,False
+T55794.8,Superintendent Signed Off,Historical Level 1 AE101A>184 - Stair Lobby,fire caulking at all wall penetrations required.,2022-04-05,2022-04-12,General Task,Wilkinson Electric Inc,Electrical,2022-06-16,,False,True,True,False
+T55794.7,Superintendent Signed Off,Historical Level 1 AE101A>186 - Womens Restroom,"Rough in for light sconce and plumbing for vanity are not aligned. ",2022-04-04,2022-04-11,General Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,False
+T74290.25,Completed,Historical Level 0.5 AE100B>Stairs Level 1,Fill in honeycomb with non-shrink grout￼,2022-04-01,2022-04-05,General Task,"Innovative Concrete, LLC",Concrete,2022-08-16,,True,True,False,False
+T74290.24,Opened,Historical Level 1 AE101A>Level 1 West Stair,Fill in honeycomb and core holes with non-shrink grout￼,2022-04-01,2022-04-08,General Task,"Innovative Concrete, LLC",Concrete,2022-04-01,,True,False,False,False
+T74290.23,Opened,Annex Roof AE107>Roof West,Clean construction debris and materials from roof,2022-04-01,2022-04-15,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-01,,True,False,False,False
+T74290.22,Completed,Historical Roof AE106>Main Roof Area,Patch roof for possible punctures￼,2022-04-01,2022-04-08,General Task,Broken Arrow Construction Corporation,Roofing,2022-05-05,,True,False,True,False
+T74290.21,Opened,Historical Roof AE106>Spire Roof Area,Repair cuts in roofing membrane on first level of spire￼,2022-04-01,2022-04-08,General Task,Broken Arrow Construction Corporation,Roofing,2022-04-01,,True,False,True,False
+T74290.20,Superintendent Signed Off,Historical Level 1 AE101A,Move rebar and reform window opening￼,2022-04-01,2022-04-08,General Task,"Innovative Concrete, LLC",Concrete,2022-04-15,,False,True,True,False
+T74290.19,Superintendent Signed Off,Annex Level 1 AE101>105 - Waiting,How is the being finished?￼,2022-04-01,2022-04-08,General Task,Fetzers' Inc.,"Finish Carpentry ",2022-05-06,,False,True,False,False
+T74290.18,Superintendent Signed Off,Historical Level 0.5 AE100B>061 - Anteroom,Replace cut out sheet rock around can light,2022-04-01,2022-04-08,General Task,Pete King Construction,Metal Stud / Drywall,2022-06-16,,False,True,False,False
+T74290.17,Opened,Annex Level 0AE100>011 - GRAB-N-GO,Chipped countertop￼,2022-04-01,2022-04-08,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-01,,True,True,False,False
+T74290.16,Superintendent Signed Off,Historical Level 1 AE101A>184 - Stair Lobby,Fire suppression main hangs lower than the ceiling￼,2022-04-01,2022-04-08,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-06-16,,False,True,True,False
+T74290.15,Opened,Historical Roof AE106>Spire Roof Area,Spire needs final coat of paint,2022-04-01,2022-04-21,General Task,"Accent Painting and Special Coatings, LLC",Paint,2022-04-01,,True,False,False,False
+T74290.14,Opened,Annex Level 1 AE101>135 - Workers Dressing - Men,Hole for can light cut too big for finish trim,2022-03-31,2022-04-07,General Task,Pete King Construction,Metal Stud / Drywall,2022-03-31,,True,True,False,False
+T74290.13,Completed,Historical Level 3 AE103,Does the top of this pony wall need to be finished￼?,2022-03-31,2022-04-07,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-04-11,,True,True,False,False
+T74290.12,Superintendent Signed Off,Annex Level 1 AE101>103 - Foyer,How will this sill be finished?,2022-03-31,2022-04-11,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-05-06,,False,True,False,False
+T74290.11,Superintendent Signed Off,Historical Level 2 AE102>223 - Elevator Lobby,Complete flashing under window￼,2022-03-31,2022-04-07,General Task,"Westland Construction, Inc.",Westland -- Historic,2022-04-15,,False,True,True,False
+T74290.10,Superintendent Signed Off,Historical Level 0.5 AE100B,Complete piping into crawlspace area. Remove core remains￼,2022-03-31,2022-04-07,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-04-08,,False,True,False,False
+T74290.9,Superintendent Signed Off,Annex Level 1 AE101>135 - Workers Dressing - Men,From field report #26 item 26-23 The 24x24 light may need to be replaced with a recess light to match. Need decision from design team,2022-03-31,2022-04-07,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-13,,False,True,False,False
+T74290.8,Superintendent Signed Off,Annex Level 1 AE101>105 - Waiting,Final coat on Cove and touch ups after primer coat,2022-03-31,2022-04-01,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-04-15,,False,False,False,False
+T74290.7,Superintendent Signed Off,Annex Level 1 AE101>125 - Receiving Restroom,Re/Re floor tile under toilet to allow the toilet to be seated properly,2022-03-31,2022-04-01,General Task,"Westland Construction, Inc.",Westland -- Annex,2022-07-12,,False,True,False,False
+T74290.6,Superintendent Signed Off,Historical Level 0 AE100A>052 - Stair Lobby,Verify needed access opening to allow for ceiling grid,2022-03-31,2022-04-04,General Task,US Mechanical,HVAC,2022-04-11,,False,True,False,False
+T74290.5,Superintendent Signed Off,Historical Level 0.5 AE100B>052 - Stair Lobby,Ensure alignment of can lights￼,2022-03-30,2022-04-04,General Task,Wilkinson Electric Inc,Electrical,2022-04-08,,False,False,False,False
+T74290.4,Superintendent Signed Off,Historical Level 0.5 AE100B>052 - Stair Lobby,Install bracket and fire sprinkler head￼,2022-03-30,2022-04-04,General Task,Broken Arrow Construction Corporation,Fire Suppression,2022-04-08,,False,True,False,False
+T74290.3,Completed,Historical Level 0.5 AE100B>052 - Stair Lobby,Reframe light opening to 28th and a quarter inch center￼￼,2022-03-30,2022-04-04,General Task,Pete King Construction,Metal Stud / Drywall,2022-05-02,,True,True,False,False
+T74290.2,Superintendent Signed Off,Historical Level 0.5 AE100B>052 - Stair Lobby,Missing wireless access point￼,2022-03-30,2022-04-04,General Task,Wilkinson Electric Inc,Electrical,2022-04-11,,False,False,False,False
+T74290.1,Superintendent Signed Off,Historical Level 0 AE100A>052 - Stair Lobby,Lower access panel to clear ceiling height,2022-03-30,2022-04-04,General Task,Pete King Construction,Metal Stud / Drywall,2022-04-11,,False,True,False,False
+T1.9629083,Opened,Historical Level 0 AE100A,"CxA Site Visit Report 20220324, Item 20:
+Pipe Clearances: The Fire sprinkler pipe and the DVW pipe in the AHU5 mechanical room are close to each other. Verify the pipes have the proper clearances and correct if needed. See Photo 24. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,True,
+T1.9629082,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 19:
+Font Makeup Water Backflow drain line: The drain line from the Font Makeup Water backflow, needs to be extend to the floor drain. See Photo 23. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,True,
+T1.9629079,Completed,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 18: 
+FC Filter Covers: The FC filter compartments only have clips to hold the air filters, verify the air can’t bypass the filters in operations. See Photo 22. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,HVAC,2022-03-28,,True,True,True,
+T1.9629077,Completed,Historical Level 0 AE100A,"CxA Site Visit Report 20220324, Item 17:
+Missing VAV access covers: VAV-0-04 and V-0-22 are missing access covers. Should covers be supplied by the manufacture and installed to provide maintenance access to inside of VAVs? See Photos 20 and 21. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,HVAC,2022-03-28,,True,True,True,
+T1.9629076,Completed,Historical Level 0 AE100A,"CxA Site Visit Report 20220324, Item 16:
+Loose duct hangers: Some wire duct hangers are loose on the duct installed in AHU5 mechanical room. Recommend they be tightened. See Photos 18 and 19. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,HVAC,2022-06-02,,True,True,True,
+T1.9629074,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 15:
+Steam Generator Dust Covers: Recommend that the Steam Generators in AHU5 mechanical room be covered to protect from construction debris and dust. See Photo 17. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,,
+T1.9629071,Completed,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 14:
+Fire Junction Box Coupling: The fire junction box coupling appears to be improper. Recommend it be reviewed and corrected as needed. See Photo 16. ",2022-03-25,2022-04-01,Field Report Task,Wilkinson Electric Inc,Electrical,2022-04-13,,True,True,True,
+T1.9629069,Completed,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 13:
+Missing electrical connection plugs: Cooling Tower Valves are missing plugs for spare electrical connection holes and need to be installed. See Photo 15. ",2022-03-25,2022-04-01,Field Report Task,Wilkinson Electric Inc,Electrical,2022-04-13,,True,True,True,
+T1.9629068,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 12:
+Cooling Tower Control Valves: Some cooling tower control valves already have signs of rusting. Are these exterior grade valves and meet the drawing and specification requirements? See Photo 13 and 14.",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,True,
+T1.9629065,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 11:
+Cooling Tower (CT1 and CT2) pad material: Recommend checking the pad material of CT1 and CT2 for proper function and condition. See Photo 12. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,True,
+T1.9629064,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 10:
+Cooling Tower (CT1 and CT2) fan bearing covers: Recommend the cooling tower fan bearing covers be inspected, repair or replaced as needed.  See Photo 11. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,,
+T1.9629063,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 9:
+Cooling Towers and Enclosure Cleanup Recommend the cooling towers and enclosure be cleaned prior to operation See Photo 10. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,True,
+T1.9629059,Completed,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 8:
+Chiller Room Exhaust Fan: The chiller room exhaust fan should be cleaned and operational for refrigerant leak testing prior to chiller operation. See Photo 9. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,HVAC,2022-03-28,,True,True,True,
+T1.9629058,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 7:
+Chiller Insulation: The chiller ends should have the insulation repaired or replaced See Photo 8.",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,,
+T1.9629056,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 6:
+Electrical Box Mounting: The electrical boxes need to be mounted to the wall to provide proper support. These boxes are in the Chiller room., See Photo 7. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,HVAC,2022-03-25,,True,True,,
+T1.9629054,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 5:
+Insulation Support Covers: Several insulation support covers are missing and need to be installed. Photo was taken in the Annex fire riser room. See Photo 6. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,,
+T1.9629051,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 4:
+SG-4A Top Plate and Steam Lines:  Top plate of SG-4A has been pushed down and not even with the other plate and needs repair. The steam line also needs better pipe support and vertical pipe sections straightened. See Photos 4 and 5.",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,,
+T1.9629039,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 3:
+FC 0-02 Drain lines: The drains line for FC 0-02 haven't been installed. See Photo 3. ",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,,
+T1.9629037,Opened,Annex Level 0AE100,"CxA Site Visit Report 20220324, Item 2:
+Pipe Insulation: The heating water piping is too close to the ductwork of AHU1 to insulate the piping.",2022-03-25,2022-04-01,Field Report Task,US Mechanical,Plumbing,2022-03-25,,True,True,True,
+T1.9629025,Completed,Annex Level 0AE100,"CxA Site Visit Report 2022.03.24, Item 1:
+FC-01 by AHU1 is missing a seismic strap and should be installed.",2022-03-25,2022-04-01,Field Report Task,US Mechanical,HVAC,2022-06-02,,True,True,True,
+T55794.6,Superintendent Signed Off,Historical Level 1 AE101A>189 - Jan,Verify flex conduit is rated to pass through wall of fire rated mechanical shaft.,2022-03-25,2022-04-01,General Task,Wilkinson Electric Inc,Electrical,2022-04-26,,False,True,True,False
+T55794.5,Superintendent Signed Off,Historical Level 1 AE101A>187 - Mens Restroom,"align electrical sconce rough in with plumbing and sink rough in.
+￼ Also raise sconce to correct elevation￼",2022-03-25,2022-04-01,General Task,Wilkinson Electric Inc,Electrical,2022-04-15,,False,True,False,False
+T55794.4,Opened,Annex Level 0AE100>001 - North Mechanical,Fire Proofing needs to be replaced at floor deck attachment for seismic brackets for FC 1 -01,2022-03-16,2022-03-23,Punch List,US Mechanical,HVAC,2022-03-16,,True,True,False,False
+T1.9628307,Superintendent Signed Off,S590 St. George Temple Renovation,"Cat 6 Wire for Session Clocks not per specifications. Replace with approved cabling. ",2022-03-15,2022-03-22,General Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,,True,
+T55794.3,Completed,Annex Level 0AE100>040 - Elec.,Fire sprinkler installed over electrical panels needs to move to between panels.,2022-03-03,2022-03-10,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2022-03-31,,True,False,False,False
+T55794.2,Opened,Historical Level 3 AE103>318 - Instruction 4,Fire sprinkler sidewalls are not at same elevation. Need adjustment.,2022-02-28,2022-03-07,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2022-02-28,,True,True,True,False
+T1.9619197,Superintendent Signed Off,Annex Level 1 AE101,"Office 112 - Wall outlets uneven on east wall. ",2022-02-27,2022-03-05,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,,True,
+T1.9618560,Opened,S590 St. George Temple Renovation,"StGeorge Site Visit Report 20220223, Item 6:
+PPR piping with electric resistance fusion fittings has been used on this project.  Please provide feedback regarding the cost, labor and process of installation. ",2022-02-24,2022-03-03,Field Report Task,US Mechanical,Plumbing,2022-02-24,,True,,True,
+T1.9618559,Opened,S590 St. George Temple Renovation,"StGeorge Site Visit Report 20220223, Item 5:
+The controls installation is in progress.  Carefully coordinate the installation of the controls system.  Please provide progress reports of the installation process and commissioning. ",2022-02-24,2022-03-03,Field Report Task,US Mechanical,HVAC,2022-02-24,,True,,True,
+T1.9618558,Opened,S590 St. George Temple Renovation,"StGeorge Site Visit Report 20220223, Item 4:
+Piping insulation is in progress.  Verify that insulation is installed at elbows and specialty devices.  Make sure insulation jacket is sealed particularly on chilled water piping to prevent condensation and subsequent water damage. ",2022-02-24,2022-03-03,Field Report Task,US Mechanical,Plumbing,2022-02-24,,True,True,,
+T1.9618557,Opened,Historical Level 0 AE100A,"StGeorge Site Visit Report 20220223, Item 2:
+Air vents will need to be installed in the piping where piping offsets upward to prevent air locks.",2022-02-24,2022-03-03,Field Report Task,US Mechanical,Plumbing,2022-02-24,,True,True,,
+T1.9618556,Opened,S590 St. George Temple Renovation,"StGeorge Site Visit Report 20220223, Item 1:
+The insulation at pipe supports has a section of rigid insulation that is only on the bottom side.  This section needs to be oriented so the rigid insulation is on the bottom and centered on the pipe support.  There are instances where the insulation is not oriented on the bottom of the pipe and or the section is not centered on the pipe support and the insulation is being crushed 
+and deformed.  This will need to be corrected. ",2022-02-24,2022-03-03,Field Report Task,US Mechanical,Plumbing,2022-02-24,,True,True,,
+T1.9612545,Opened,Annex Level 1 AE101,"CxA Field Report 20220113, Item 3:
+Pipe Insulation Hanger Supports: Some pipe insulation supports are missing in different areas of the project. Please ensure pipe insulation contractor provides the needed insulation supports throughout the project.  See photo 4. ",2022-01-21,2022-01-28,Field Report Task,US Mechanical,Plumbing,2022-01-21,,True,True,,
+T1.9612544,Opened,Annex Level 0AE100,"CxA Field Report 20220113, Item 2: 
+Pipe Insulation damage: The piping insulation has water damaged near VAV 0-09 box in the Annex level 0.  See photo 3.",2022-01-21,2022-01-28,Field Report Task,US Mechanical,HVAC,2022-01-21,,True,True,,
+T1.9612543,Completed,Historical Level 0 AE100A,"CxA Field Report 20220113, Item 1: 
+Fire Smoke Damper Access Cover:  In the West Temple addition lower hallway, one of the Fire Smoke Damper 
+assemblies is located next to the wall framing. The latches on the access cover are positioned so that one latch could be difficult to secure closed, after the sheetrock is installed on the wall. Suggestion could the latches be positioned so both are accessible like the adjoining Fire Smoke Damper access cover.  See photos 1 and 2. ",2022-01-21,2022-01-28,Field Report Task,US Mechanical,HVAC,2022-02-24,,True,True,True,
+T1.9606607,Completed,Annex Level 0AE100,"CxA Report 11.30.2021 Item 7: 
+AHUs Return Filters: The return air filters must be installed on all four AHU’s return air doors of the return air, to prevent dust entering the AHU and should be installed as soon as possible. The use of the suggested filter frames, with fitted Merv13 filters should be sufficient to protect the air handler, but filters must be checked and changed as needed. See Photos 7 and 8. The return air dampers inside the air handlers have been sealed with tape and is a good idea. Another 
+suggestion to help reduce dust entering the AHUs is to add warning signs near all the AHUs as shown in photo 9.",2021-12-02,2021-12-09,Field Report Task,US Mechanical,HVAC,2021-12-02,,True,,True,
+T1.9606606,Completed,Annex Level 0AE100,"CxA Report 11.30.2021 Item 6:
+Damaged AHU coil fins: In AHU1 there is some bent fins on the air handler coils that need to be straightened, see Photo 6. ",2021-12-02,2021-12-09,Field Report Task,US Mechanical,HVAC,2021-12-03,,True,True,True,
+T1.9606604,Completed,Historical Level 0 AE100A,"CxA Report 11.30.2021 Item 5:
+Ductwork Covers: Two ductwork elbows pointed upward under the floor above, had a hole in the protection cover and debris was on top of the cover. The debris fell through the floor above and could drop into the ductwork. Baptistery chapel crawlspace. Please remove the debris and recover the duct openings. See Photo 5 ",2021-12-02,2021-12-09,Field Report Task,US Mechanical,HVAC,2021-12-02,,True,True,True,
+T1.9606601,Completed,Annex Level 0AE100,"CxA Report 11.30.2021 Item 4:
+Mechanical Room Cleaning:  It was observed that the chilled water pump VFD’s are very dusty inside and need to be 
+cleaned, see Photo 4.  It’s suggested that all VFD’s in the boiler and chiller mechanical rooms be cleaned to remove the dust and protected from additional dust. It's also suggested that the boilers and boiler mechanical room be cleaned to help ensure equipment operates properly. ",2021-12-02,2021-12-09,Field Report Task,US Mechanical,Plumbing,2021-12-03,,True,True,True,
+T1.9606598,Completed,Annex Level 0AE100,"CxA Report 11.30.2021 - Item 3: 
+Boiler Vent Lines: MHI Service indicated, that the vent lines connected to the Boilers interior gas device is not normally to be vented as shown in Photo 3. However, Bob from US Mechanical indicated that they are required. This conflict needs to be addressed and resolved to all appropriate organizations. ",2021-12-02,2021-12-09,Field Report Task,US Mechanical,HVAC,2022-05-02,,True,True,True,
+T1.9606597,Opened,Annex Level 0AE100,"CxA Report 11.30.2021 - Item 2: 
+Boiler Startup: During the startup of Boiler 3, it was determined by MHI Service that a control card had failed and needed to be replaced. MHI ordered the part to be installed, see Photo 2.",2021-12-02,2021-12-09,Field Report Task,US Mechanical,Plumbing,2021-12-02,,True,True,,
+T59123.75,Superintendent Signed Off,Historical Level 0.5 AE100B>068 - Stairwell,Missing pendant light rough in,2021-10-25,2021-11-01,Punch List,Wilkinson Electric Inc,Electrical,2022-04-01,,False,True,False,False
+T59123.74,Completed,Historical Level 0.5 AE100B>069 - Restroom Vest,Install Fire Stopping at plumbing floor penetrations￼￼,2021-10-22,2021-10-29,Punch List,US Mechanical,HVAC,2022-03-28,,True,True,True,False
+T59123.73,Superintendent Signed Off,Historical Level 0.5 AE100B>071 - Lavatory,Low volt switch located on west wall but not shown in plans￼,2021-10-22,2021-10-29,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,False
+T59123.72,Superintendent Signed Off,Historical Level 0.5 AE100B>070 - Restroom Girls,Fire alarm not located on south wall as shown on plans; A4/AE4022,2021-10-22,2021-10-29,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,False,True,False
+T59123.71,Superintendent Signed Off,Historical Level 0.5 AE100B>074 - Jan,Missing receptacle,2021-10-22,2021-10-29,Punch List,Wilkinson Electric Inc,Electrical,2021-10-25,,False,False,False,False
+T59123.70,Superintendent Signed Off,Historical Level 0.5 AE100B>073 - Showers,Align sprinkler head with can light￼,2021-10-22,2021-10-29,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2022-08-11,,False,False,False,False
+T59123.69,Superintendent Signed Off,Annex Level 1 AE101>162 - Instruction Women,Access panel below instruction room sink not centered with sink,2021-10-22,2021-10-29,Punch List,Pete King Construction,Metal Stud / Drywall,2022-04-13,,False,True,False,False
+T59123.68,Completed,Annex Level 1 AE101>132A - Clothing,Ceiling diffusers not symetrical,2021-10-22,2021-10-29,Punch List,US Mechanical,HVAC,2021-12-03,,True,True,True,False
+T1.9599817,Opened,Annex Level 1 AE101,"SiteVisitReport 20211015, Item 3. 
+Excess sediment has been collected in the cooling towers since they have been located in the new enclosure.  There is concern that a low-pressure phenomenon allows more dirt to settle there.  It could also have to do with more dust since landscaping has been disturbed.  The towers are currently not in operation.  This will need further evaluation when they return to operation.",2021-10-19,2021-10-26,Field Report Task,US Mechanical,Plumbing,2021-10-19,,True,,,
+T1.9599815,Opened,Historical Level 0.5 AE100B,"SiteVisitReport 20211015, Item2. 
+The baptismal font skimmer system is custom for the St. George temple and is made of bronze.  The system will need to be tested potentially with special coatings to make sure it will work with the chlorinated water in the font.  The skimmer drain and overflow fittings will be made of the same bronze material as the gutter system.  The piping connected to the fittings will be the standard schedule 80 PVC use for baptismal fonts.  The bottom drain and supply fittings will be the standard stainless steel fittings. ",2021-10-19,2021-10-26,Field Report Task,US Mechanical,Plumbing,2021-10-19,,True,,,
+T1.9599807,Superintendent Signed Off,Annex Level 1 AE101,"Site Visit Report 20211015, Item 1:
+There is a plenum box in the entry lobby that has been damaged and needs to repaired or replaced. ",2021-10-19,2021-10-26,Field Report Task,US Mechanical,HVAC,2021-10-22,,False,True,True,
+T59123.67,Superintendent Signed Off,Annex Level 0AE100,"020A - East Mechanical > Annex Level 0AE100
+Re-attach hanger bracket at humidifier piping",2021-10-11,2021-10-18,Punch List,US Mechanical,Plumbing,2021-10-22,,False,True,False,False
+T59123.66,Opened,Annex Level 0AE100>002 - Electrical,Cap the two unused conduit feeders,2021-10-11,2021-10-18,Punch List,Wilkinson Electric Inc,Electrical,2021-10-11,,True,True,False,False
+T1.9596688,Superintendent Signed Off,Historical Level 2 AE102,"EOR 2021.09.09, Item 20:
+Temple – LV2 
+ 
+A crack on MC cabling armor was observed. This can lead to additional cable failure if additional stress is present and galvanized shield is further compromised and comes in contact with inner cables. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9596687,Superintendent Signed Off,Annex Level 1 AE101,"EOR 2021.09.09, Item 19: 
+Annex – LV1 
+ 
+Cabling for vanity lamps appears to be valid. 
+ 
+It is recommended that proper orientation of mud rings is verified prior to starting the next construction stage. 
+ 
+It is also critical the building envelope insulation is restored to the structure.  ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596686,Superintendent Signed Off,Annex Level 1 AE101,"EOR 2021.09.09, Item 18:
+Annex – LV1 
+ 
+MC cabling appears to be routed outside of the intended path, protruding beyond the width of the joists.  Verify that it will not cause a bulge when drywall is installed. 
+ ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596685,Completed,Annex Level 1 AE101,"EOR 2021.09.09, Item 17:
+Annex – LV 1 
+ 
+NEC 358.14 states that dissimilar metals in contact anywhere in the system shall be avoided to eliminate the possibility of galvanic action. 
+ 
+This was observed in multiple locations. MC is in full contact with cast iron and/or copper pipes. 
+ 
+This was identified in past reports",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-11,,True,True,True,
+T1.9596684,Completed,Annex Level 0AE100,"EOR 2021.09.09, Item 15: Annex – Basement 
+ 
+Main switch for boilers appears to be installed in equipment access space. This will potentially limit access to the side panels of the boiler.  
+ 
+It appears that adequate space for this installation is available on the back wall. 
+",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-25,,True,True,True,
+T1.9596683,Superintendent Signed Off,Annex Level 0AE100,"EOR 2021.09.09, Item 13: Annex – Basement 
+ 
+Main Mechanical and Electrical control room equipment installation appears to be installed in an organized manner. 
+ 
+Verify clearances in electrical room meet NEC standards. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596676,Superintendent Signed Off,Annex Level 0AE100,"EOR 2021.09.09, Item 12: Annex – Basement and 
+other areas 
+ 
+According to NEC Article 330.30, MC cables containing four or fewer conductors sized no larger than 10 AWG must be secured within 12 inches of every termination. 
+ 
+Multiple locations throughout the building appear to show this violation. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9596673,Superintendent Signed Off,Annex Level 0AE100,"EOR 2021.09.09, Item 9: Annex – Basement 
+ 
+Power cable for filtration device appears to be too short for the application. Potential stress on the cable is 
+introduced.  
+ 
+Depending on traffic, this can be a trip and equipment hazard.",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596672,Superintendent Signed Off,Annex Level 0AE100,"EOR 2021.09.09 
+Annex – Basement 
+ 
+Unscreened LED fixture resting directly on a metal pipe, exposing circuitry to contact with metal introducing 
+potential for early failure. 
+ 
+Additional protection should be utilized to protect the integrity of LED fixture. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596671,Superintendent Signed Off,Annex Level 0AE100,"Annex – Basement 
+ 
+Cabling for bathroom outlets is in place. 
+ 
+Verify orientation of sink outlets to accommodate 
+vanity outlets or power faucets. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596670,Superintendent Signed Off,Annex Level 0AE100>011 - GRAB-N-GO,"Cabling for outlets at “grab & go” room appears to be valid.  
+ 
+Verify with electrical consultants that adequate load 
+allocation is in place to accommodate multiple vending machines. 
+ 
+Exits sign cabling is in place. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,
+T1.9596669,Superintendent Signed Off,Annex Level 0AE100,"Annex - Basement  
+ 
+Cabling appears to be routed to junction boxes, outlets, and switches.  
+ 
+Installation of switches appears to be valid. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-07,,False,,,
+T1.9596668,Completed,Annex Level 0AE100,"Annex – Basement and other areas throughout 
+ 
+Electrical conduits appear to exceed 360-degree bends at chiller room and other locations throughout the facility.  
+ 
+Refer to project specifications and NEC for maximum degrees between pull points.  
+ 
+NEC 358.26 (A) states that there shall not be more than the equivalent of four quarter bends (360 degrees total) 
+between pull points.  
+ 
+It appears that this requirement is violated in many locations in the annex and temple. ",2021-10-07,2021-10-07,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-11,,True,True,True,
+T1.9596667,Superintendent Signed Off,Annex Level 0AE100,"Annex – Basement and throughout the building 
+ 
+Installation of electrical J-boxes and conduit support is resulting in removal of fire protection materials from structural steel beams.  
+ 
+This issue was observed throughout the annex and temple buildings and has been identified in past reports. ",2021-10-07,2021-09-23,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,True
+T59123.65,Superintendent Signed Off,Historical Level 2 AE102>209 - Instruction Room A-2,Sprinkler head not in line with pendant lights East West direction,2021-10-05,2021-10-08,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,True,False,False
+T59123.64,Superintendent Signed Off,Historical Level 2 AE102>217 - Waiting,Plumbing line too close to drywall. Needs to be centered in stud cavity.,2021-09-14,2021-09-21,Punch List,US Mechanical,Plumbing,2021-10-22,,False,False,False,False
+T59123.63,Opened,Historical Level 5 AE105>515 - Elec.,Sprinkler cap is removed and head is 1” low. Need to adjust.,2021-09-01,2021-09-15,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2022-06-28,,True,False,False,False
+T59123.62,Opened,Historical Level 5 AE105>515 - Elec.,Sprinkler cap is removed and head is 1” low. Need to adjust.,2021-09-01,2021-09-08,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2022-06-28,,True,True,False,False
+T59123.61,Superintendent Signed Off,Historical Level 5 AE105>519 - Waiting,Demo existing electrical conduit at floor,2021-09-01,2021-09-08,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T59123.60,Superintendent Signed Off,Historical Level 5 AE105>518 - Study,Remove existing fire suppression and cap at vestibule 517 ceiling,2021-09-01,2021-09-08,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2022-04-13,,False,True,False,False
+T59123.59,Superintendent Signed Off,Historical Level 5 AE105>518 - Study,Rough in fire alarm monitor connections,2021-09-01,2021-09-15,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,False,True,False
+T59123.58,Superintendent Signed Off,Historical Level 5 AE105>518 - Study,Install fire suppression (pending direction on building envelope detail),2021-09-01,2021-09-09,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,False,False,False
+T59123.57,Superintendent Signed Off,Historical Level 5 AE105>518 - Study,Missing rough in for session clock,2021-09-01,2021-09-08,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.56,Superintendent Signed Off,Annex Level 1 AE101>113 - Administration,Adjust fire suppression head to be equal distant off medallion at both locations in admin 113,2021-08-23,2021-08-24,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T1.9556218,Opened,Annex Level 1 AE101,"ARW 70-9: Locker room ceiling bracing - Ceiling bracing in locker rooms at main level of north addition did not appear to have adequate bracing wires as shown on sheet AE507.  Wire bracing to be verified and installed to meet construction documents. ",2021-07-06,2021-07-13,Field Report Task,Design West Acoustics,Acoustical Ceilings,2021-07-06,,True,True,,
+T1.9556215,Completed,Annex Level 1 AE101,"ARW 70-8: Areaway wall gap. Jay asked if Styrofoam is ok to use for the gap at the top of the areaway wall in the 
+west mechanical room.  I indicated that this was acceptable. ",2021-07-06,2021-07-13,Field Report Task,Pete King Construction,Metal Stud / Drywall,2022-04-21,,True,,,
+T1.9556214,Opened,Annex Level 1 AE101,"ARW 70-7: Loading dock topping. Jay asked if they could use a pea gravel mix for the topping at the loading dock.  
+After further discussion, it was concluded that the topping should be as answered in a previous CCD issued regarding this area. ",2021-07-06,2021-07-13,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-07-06,,True,,,
+T1.9556213,Opened,Annex Level 1 AE101,"ARW 70-7: Stud connections at the entry wall of the 
+North Addition. Noted that the anchors were installed for one side of the double stud wall at the entry but that the anchors were not installed for the studs on the south face of the wall.  Discussed this with Jay that the anchors are to be installed on both studs of the double stud wall. ",2021-07-06,2021-07-13,Field Report Task,Pete King Construction,Metal Stud / Drywall,2021-07-06,,True,True,,
+T1.9556211,Opened,Historical Level 0 AE100A,"ARW 70-6: HSS landing beam connection to the 
+concrete foundation wall. Indicated to Will (Glassey) that it is acceptable to use Titen HD anchors for this connection as noted in COR 69 by Brent White. ",2021-07-06,2021-07-13,Field Report Task,Glassey Steel Works,Structural Steel,2021-07-06,,True,,,
+T1.9556210,Opened,Historical Level 0.5 AE100B,"ARW 70-4: Level 0.5 stud connection at top of stud. Noted that tops of the studs have not yet been connected at the top at the north and south walls of the baptistry.  Indicated to Creg that this needs to be done prior to the ceiling being installed.  Sketches provided by Brent White still apply to this condition and if none of the sketches seem to apply to use a Simpson H2.5 similar to the studs at the upper levels. ",2021-07-06,2021-07-13,Field Report Task,Rockhill Construction,Wood Framing,2021-07-06,,True,,,
+T1.9556209,Opened,Historical Level 0.5 AE100B,"ARW 70-3: Gap above stud filler at west wall of baptistry.  Indicated to Josh that a gap is still required above the filler for the stud and that it is acceptable to cut ½” from the plate to provide the gap.  Reiterate to Josh that pre-drilling the holes for the screws or nails is important to mitigate cracking in the top of the stud and filler. ",2021-07-06,2021-07-13,Field Report Task,Rockhill Construction,Wood Framing,2021-07-06,,True,True,,
+T1.9556207,Opened,Historical Level 3 AE103,"ARW 70-2: Floor joist conflict with can lights. Indicated to Josh, Creg, and David w/ Rockhill, that it is acceptable to install new joists on either side of the can light to support the floor and to space the joists such that the spacing between the new joists is not more than 16 inches and the spacing between the new and existing joists is not more than 12 inches. It is ok to abandon the existing joist that needs to be cut that is located between the new joists.  Any of the existing joist that remains is to be screwed to the flooring above. ",2021-07-06,2021-07-13,Field Report Task,Rockhill Construction,Wood Framing,2021-07-06,,True,True,,
+T1.9556204,Opened,Historical Level 2 AE102,"ARW 70-1: LVL sister for 2nd level Sealing Room in East tower. Discussed with Josh and Creg that it is ok to omit installing the LVL adjacent to the joists that are cut short at the stairs on the north and south sides of the room. ",2021-07-06,2021-07-13,Field Report Task,Rockhill Construction,Wood Framing,2021-07-06,,True,True,,
+T59123.55,Superintendent Signed Off,Annex Level 1 AE101>135 - Workers Dressing - Men,Adjust fire suppression layout,2021-07-02,2021-07-05,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,True,False,False
+T1.9552542,Superintendent Signed Off,Annex Level 0AE100,"Drywall mechanical room side of wall above door header 036. Do not leave exposed stud cavity walls. ",2021-06-23,2021-06-29,Punch List,Pete King Construction,Metal Stud / Drywall,2022-04-21,,False,True,,
+T1.9552522,Opened,Historical Level 1 AE101A,"ARW 69-10: Various steel beams throughout the historic 
+temple are supported on bearing plates and concrete pillow blocks.  All space around the beams is to be grouted solid after beam placement. Verify that all pockets are fully grouted while access is possible",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552521,Opened,Historical Level 2 AE102,"ARW 69-9: The support of the arched ceiling joist at the 
+west wall was discussed with Josh and Dion.  There is a stud wall at the back of the room with ducts between the studs and the stone wall.  There was discussion as to the ability to support the ceiling joist on the stud wall. It was the impression of Westland that ARW had indicated the ceiling can be supported on the studs. The ceiling cannot be supported on the stud wall due to the fact that studs are supported 
+by the original floor framing below. Therefore, the ceiling must be supported on the west stone wall.  This item was discussed in an email to CRSA dated May 24, 2021.  Where the cold formed joists are interrupted by openings for ductwork the joists shall have headers and multiple joists as indicated on the cold formed framing details. See S103. ",2021-06-22,2021-06-29,Field Report Task,Pete King Construction,Metal Stud / Drywall,2021-06-22,,True,,,
+T1.9552520,Opened,Historical Level 2 AE102,"ARW 69-8: An arched HSS beam has been erected at 
+west side of grid HC. There is no arched ceiling framing in this area above the catwalk. The HSS beam should be relocated at grid HB and attached to the stone wall per 1/S244. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552518,Opened,Historical Level 1 AE101A,"ARW 69-6: The upper stair run at the bride’s entry stair 
+frames into a steel beam. The HSS stringers are currently attached with ½” thick knife plates. At the front edge of the HSS an L3x3x1/4 angle clip is to be welded to the bottom of the supporting beam and the contact surfaces of the HSS stringer. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552517,Opened,Historical Level 1 AE101A,"ARW 69-5: At the bride’s entry stair area one of the columns for landing support does not have a slab block out and anchor bolts. A steel base plate the size of the column (to allow concealment in the wall) will be bolted 
+to the top of the slab with a ¾” titan anchor and the HHS column will be welded to the base plate. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,,,
+T1.9552516,Opened,Historical Level 1 AE101A,"ARW 69-4: One of the columns fabricated for the bride’s 
+entry stair extends above the landing to the stair stringer above. The intent of the column is to support the stringer at the landing level with a beam from the column to the foundation wall (see structural plans).  
+The column will be modified to terminate at the landing elevation. The removed portion of stringer as noted in 69-3 will be utilized as the beam from the column to the 
+foundation wall. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,,,
+T1.9552514,Opened,Historical Level 1 AE101A,"ARW 69-3: The stair framing for the stair at the bride’s 
+entry area was fabricated with the stringer adjacent to the wall extending along the wall to the lower lever.  The concrete foundation wall does not allow for the placement of the stair in this configuration. The stringer is to be cut at the door landing level and provided with a bearing plate to sit on the foundation wall. A L8x8/3/8 clip can be welded to the vertical stringer face and bolted to the top of the foundation wall with (2) ¾” anchor bolts. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552510,Opened,Historical Level 1 AE101A,"ARW 69-2: Discussed the placement of the support angle and attachment plate for the west tower floorsto the existing stone walls as noted in detail.14/S221. The detail calls for a stiffener plate that is oriented vertically at the back (stone side) of the plate.  The stiffener must fully engage the stone wall.  The grout material is 
+indicated in the noted detail to be low viscosity and can be any grout material that can be placed without running out of the void. The horizontal void currently existing in the stone must be filled as well at locations behind the connection plate. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552509,Opened,Historical Roof AE106,"ARW 69-1: Dion and Josh had questions regarding the 
+anchorage of the parapet/battlement braces at the roof.  The holes drilled in the stone are adequate for the specified anchor rod but not with a screen included.  Due to the conditions at the roof with a new membrane they have requested not cutting or drilling larger holes in the plates at the braces.  The diameter and size of anchor as indicated on the structural drawings is 
+required.  As an option to avoid using the screen it was suggested that a borescope or other method be used to verify the conditions in the anchor holes. If the holes 
+are in solid stone elements then the anchor can be treated as if in concrete with no screen. If the there are any voids, the screens can be eliminated, but the hole must be fully filled with epoxy. This may require large amounts of epoxy if the material escapes through existing holes",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552506,Completed,Annex Level 1 AE101,"ARW 68-6: Concrete columns are specified to be built 
+parallel and just south of the wall on Grid A2.  While on site, I wasn’t able to see any rebar dowels sticking up out of the mat slab at these column locations.  There were various material stock piled in this area, so they may have been covered up. Please verify that the rebar dowels for the concrete columns is present and notify us if a fix is necessary for these columns. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2022-04-21,,True,True,,
+T1.9552505,Completed,Annex Level 1 AE101,"ARW 68-5: The water stop at the mat footing and foundation wall connection along grid AH has been placed inside the keyway.  Detail 11/S211 which is referenced in the drawings shows the water stop outside the keyway. Please relocate the water stop to be outside of the keyway.  This was discussed with Jason. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2022-04-21,,True,True,,
+T1.9552504,Opened,Historical Level 2 AE102,"ARW 68-3: Concrete beam to concrete column connections at west tower area. It was discussed with Jason that the concrete columns need to be built so that the new concrete beams will be built on top of the column.  It was suggested that the concrete pour for the columns stop at the bottom of the beams rather than pouring the concrete for the columns all the way to the 
+top of the concrete wall pours.  The concrete pours should be sequenced so the concrete beams can bear on top of the concrete columns rather than framing into 
+the side of the columns.   ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552503,Opened,Historical Level 2 AE102,"ARW 67-8: Clip connecting level 0.5 LVL and level 2 LVL 
+stud - Noted that screws have not been placed in clip plate that connects the level 0.5 and level 2 stud. Ryan noted the location and marked it.  Wall is on the south side of the veil room.",2021-06-22,2021-06-29,Field Report Task,Rockhill Construction,Wood Framing,2021-06-22,,True,True,,
+T1.9552501,Opened,Historical Level 1 AE101A,"ARW 67-7:  LVL wall between foyer and baptistry - The wall between the foyer and the baptistry will need to be furred to cover the flanges of the HSS columns.  Indicated to Westland that the plywood backing still 
+needs to be installed on the LVL studs to brace the studs and that the furring studs can be braced back to the sheathing. ",2021-06-22,2021-06-29,Field Report Task,Rockhill Construction,Wood Framing,2021-06-22,,True,True,,
+T1.9552499,Opened,Historical Level 1 AE101A,"ARW 67-6: Grout to be placed behind HSS, around pipe sleeves, and around epoxy bolts. Support for roof purlins at new openings. Noted that grout has yet to be placed 
+around pipe sleeves, behind the HSS jamb posts at level 0.5, and that the supports for the roof purlins have yet to be installed at the openings as discussed in previous reports.",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552498,Opened,Annex Level 1 AE101,"ARW 67-5: Concrete to be placed below existing mat 
+footing of north addition - Discussed with Carter the plan to place the concrete below the existing mat footing of the north addition and verified that they plan on using a flowable material that will fill all voids below the mat.  Stressed that to get best performance of water-proofing that concrete needs to fill entire space up to bottom of existing mat footing.  Carter agreed that some areas may need to be packed solid if gaps are discovered after forms are removed",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552497,Opened,Historical Level 0 AE100A,"ARW 67-4: Grout for columns against south exterior wall - Noted that grout has not been placed below base plates of columns placed against the south wall.  Please place grout soon to provide solid bearing between base plate and foundation wall. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552495,Opened,Historical Level 1 AE101A,"ARW 67-3: Header for opening between Baptistry 
+Chapel and foyer - Concrete header still not completed.  Indicated to Ryan that ARW would prefer this to be moved up the priority list and be done soon. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552494,Opened,Historical Level 2 AE102,"ARW 67-2: Plywood backing attachment - Discussed with Dion the attachment of the plywood backing at level 2.  Plywood is being attached with staples that are 1-1/2” long with a 6” spacing.  Indicated to Dion that the spacing needs to be 4” maximum if the 1-1/2” staples continue to be used.  It is acceptable to keep the 6” spacing if 2” staples are used instead of the 1-1/2” long staples. ",2021-06-22,2021-06-29,Field Report Task,Rockhill Construction,Wood Framing,2021-06-22,,True,True,,
+T1.9552493,Opened,Annex Level 1 AE101,"ARW 67-1: Entry stud framing at duct chase -Discussed with Kyle, Carter, and Jay the framing that could fit around the duct chases at the entry foyers.  Indicated that the 8” studs would be best to use at these locations and verified that the 8” jamb studs will fit at the door opening.  ARW will provide a connection detail for the bottom of the studs as a track is not possible to be installed.",2021-06-22,2021-06-29,Field Report Task,Pete King Construction,Metal Stud / Drywall,2021-06-22,,True,True,,
+T1.9552438,Opened,Historical Level 0.5 AE100B,"ARW 66-8: At duct openings in the concrete on deck 
+floor at Level 0.5 in the baptistry chapel area do not have support framing in place. The contractor is preparing for painting in the space below Level 0.5. This item has been noted in previous observation reports. The opening framing information is on the construction drawings. This work should be completed prior to painting. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552437,Opened,Annex Level 1 AE101,"ARW 66-7:  
+Reinforcing steel for the walls supported by the mat foundation at the west tower are being placed. Several items were coordinated between the construction documents and the submittals. The 
+submittals incorrectly showed locations for 
+several jambs. The contractor is coordinating locations and intends to place the reinforcing steel in the correct locations. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,,,
+T1.9552436,Opened,Historical Level 2 AE102,"ARW 66-6: At Level 2 between HE and HF near H5 an 
+existing floor joist is split. A new LVL joist should be placed sistered to the existing joist per information provided in the drawings and in previous RFI responses for similar conditions.",2021-06-22,2021-06-29,Field Report Task,Rockhill Construction,Wood Framing,2021-06-22,,True,True,,
+T1.9552435,Opened,Historical Level 2 AE102,"ARW 66-5: At Level 2, Grids HE & H4 the new steel 
+beams adjacent to the original heavy timber 
+floor framing is missing bolts in the beam to 
+column connection. With all materials in place the holes for the bolts are not accessible. The interface of the column cap plate and 
+the beam bottom flanges can be welded 
+with ¼ fillet welds. All owner approved welding procedures for this project shall be followed. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552434,Opened,Historical Level 2 AE102,"ARW 66-4: One of the wrapped stone columns along grid 
+H4 is missing the anchor through the column 
+and the steel jacket on each side at level 2. The LVL stud walls adjacent to the column 
+are in place and the full length through 
+anchor cannot be placed. Instructed the 
+contractor to place threaded rods of the maximum length possible with epoxy anchors. Use the nuts and weld washers as originally detailed. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552433,Completed,Historical Level 1 AE101A,"ARW 66-3: Embeds to support steel wide flange beams at Level 1 floor framing near the bride’s entry 
+area were not placed in the foundation wall.  
+This occurs at grid H5 near HC and HC.5. Provide connections to the concrete wall with clip angles and epoxy anchors per the attached Sketch 66-2",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2022-04-21,,True,True,,
+T1.9552430,Opened,Historical Level 2 AE102,"ARW 66-1: Previously provided response to RFI 941 
+indicated framing requirements for the new 
+duct openings in the stair tower wood framed 
+walls. Creg reviewed these areas and 
+requested framing adjustments. See Sketch 66-1 attached. Please refer to RFI 941 response for all information not noted on the sketch. ",2021-06-22,2021-06-29,Field Report Task,Rockhill Construction,Wood Framing,2021-06-22,,True,True,,
+T1.9552428,Opened,Annex Level 1 AE101,"ARW 65-3: The majority of the mat slab horizontal 
+reinforcing was in place during our visit.  The 
+vertical dowels connecting the mat slab to the 
+concrete walls had not yet been tied into 
+place. Please verify that the vertical dowel 
+locations are correct.  It is very important 
+that these dowels, specifically the jamb bars 
+for the concrete shear walls, be located 
+correctly prior to placement of the mat slab 
+concrete.  Retrofitting misplaced vertical 
+bars in this slab will be extremely difficult 
+once the concrete has been placed.",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,
+T1.9552427,Opened,Historical Level 2 AE102,"ARW 65-2: The HSS rolled ceiling framing at the 2nd Level was being installed during the visit.  The center threaded rod and nut could not be installed on the HSS to steel beam due to  access issues. See response to RFI #1115 for attachment of the threaded rod to beam. ",2021-06-22,2021-06-29,Field Report Task,Glassey Steel Works,Structural Steel,2021-06-22,,True,True,,
+T1.9552426,Opened,Historical Level 1 AE101A,"ARW 65-1: The windows near the brides exit need to 
+have the window sills built up to get above 
+elevation 100’-0”.   Please provide new window sills per the same direction provided in RFI 961. ",2021-06-22,2021-06-29,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-06-22,,True,True,,True
+T59123.54,Superintendent Signed Off,Annex Level 1 AE101>109 - Waiting,Install poke through electrical at floor slab,2021-05-25,2021-06-01,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,False,True,False
+T59123.53,Superintendent Signed Off,Annex Level 1 AE101>109 - Waiting,Install fire suppression,2021-05-25,2021-06-01,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,False,False,False
+T59123.52,Superintendent Signed Off,Annex Level 1 AE101>109 - Waiting,Missing exit light,2021-05-25,2021-06-01,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.51,Superintendent Signed Off,Annex Level 1 AE101>110 - Chapel,Install floor poke through boxes,2021-05-25,2021-06-01,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,False,True,False
+T59123.50,Superintendent Signed Off,Annex Level 1 AE101>110 - Chapel,Fire suppression incomplete. Finish rough in.,2021-05-25,2021-06-01,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,False,False,False
+T59123.49,Superintendent Signed Off,Annex Level 1 AE101>111 - Instruction 1,Fire Suppression piping not installed. Need to install.,2021-05-25,2021-06-01,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-10-22,,False,False,False,False
+T59123.48,Superintendent Signed Off,Annex Level 1 AE101>111 - Instruction 1,Install Tstat when framing is installed,2021-05-25,2021-06-10,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.47,Superintendent Signed Off,Annex Level 1 AE101>148 - Instruction 2,Missing rough-in for Glass Break,2021-05-20,2021-05-27,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T1.9542509,Opened,Historical Level 3 AE103,CRSA 11-6 3rd floor colonettes at the 3rd floor instruction rooms need to be installed after the rooms are painted.,2021-05-18,2021-05-25,Field Report Task,Fetzers' Inc.,"Finish Carpentry ",2021-05-18,,True,,,
+T1.9542508,Opened,Annex Level 0AE100,CRSA 11-2 More cabinets are being installed before the walls are painted in the North Addition. Walls behind cabinets need to be painted before the cabinets are installed. Please remove and reinstall after paint.,2021-05-18,2021-05-25,Field Report Task,Fetzers' Inc.,"Finish Carpentry ",2021-05-18,,True,,,
+T1.9542507,Superintendent Signed Off,Annex Level 1 AE101,CRSA 11-1 Switch in the North Addition Laundry area need to move to line up with the other switches on the wall. (see image #21),2021-05-18,2021-05-25,Field Report Task,Wilkinson Electric Inc,Electrical,2021-10-22,,False,,True,True
+T1.9541265,Opened,Historical Level 2 AE102,ARW 64-6 Duct openings from Reviewed duct openings with Jason.  There is not enough space to install concrete header above the duct and below the floor joists.  See sketch SK64-1 for suggested detail to support the floor joists at this condition.,2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541264,Opened,Historical Level 5 AE105,ARW 64-6 Duct openings from Reviewed duct openings with Jason.  There is not enough space to install concrete header above the duct and below the floor joists.  See sketch SK64-1 for suggested detail to support the floor joists at this condition.,2021-05-07,2021-05-14,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,,
+T1.9541263,Opened,Historical Level 5 AE105,ARW 64-3 Level 5 opening infill at east tower Discussed with Dion that sides of infill need to be filled with epoxy grout.,2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541261,Opened,Historical Level 2 AE102,ARW 64-1 Temporary headers for level 2 and 4 openings in west wall Reviewed conditions with Dion and noted that temporary headers will interfere with floor joists.  This was discussed earlier and addressed in COR29 and RFI 706.  Please see COR29 item 29-2 and response to RFI 706 for more information to avoid interference with floor joists.,2021-05-07,2021-05-14,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,,
+T1.9541260,Opened,Historical Level 0.5 AE100B,"ARW 63-8 Where HSS columns are located adjacent to wrapped stone columns bolt tabs, bolt washers etc do not fit tight. Voids behind bolt tabs, between washers and tabs etc. must be filled with material to create a tight fit. This can be dry pack grout or a moldable epoxy material that will create a hard filler.",2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541259,Opened,Historical Level 0.5 AE100B,ARW 63-7 At the door openings in the east tower with HHS jambs supporting the concrete lintel there are multiple locations with space / gaps behind the HSS and the stone. Josh indicated that the grout will be placed to be flush with the inside doorway face of the HSS. Prior to placing grout dry pack grout should be placed in the voids around the anchor rods to make sure the there is solid backing.,2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541258,Opened,Historical Level 4 AE104,ARW 63-5 At Level 4 along Grid H2 and H4 new steel beams have been placed adjacent to the original wood floor trusses.  The beams extend toward the corridors beyond the inside face of the new LVL stud wall.   This item has been reviewed with the architect. A stud furring wall will be placed along the LVL wall to conceal the new steel beams.,2021-05-07,2021-05-14,Field Report Task,Pete King Construction,Metal Stud / Drywall,2021-05-07,,True,,,
+T1.9541257,Opened,Historical Level 0.5 AE100B,ARW 63-4 At multiple locations new concrete jambs and lintels have been placed to support the existing stone walls a new openings. There are gaps and voids between the new concrete and stone at many locations. A flowable grout material should be injected or placed to provide total support of the stone. In some locations stone above the openings has shifted requiring grout above the stone in any voids. The same applies for voids around steel sleeved openings.,2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541254,Opened,Historical Level 0.5 AE100B,ARW 63-3 Stone has been removed at the top of the existing concrete jambs placed to support a new concrete lintel at grids HB / H3.  This unsupported condition should be remedied as soon as possible by placing the concrete lintel.,2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541252,Opened,Historical Level 2 AE102,"ARW 63-2 The LVL stud wall framing is continuing.  As the framing continues conditions occur that do not completely fit the typical details provided in the drawings and by sketch from ARW. At conditions where the stud do not align completely at the bearing transition at level 2 along the plane of the wall adjustment are required for the plate attachment from lower stud to stud or to blocking. Dependent on the offset plywood or LVL shims can be screwed to either the stud or the blocking and then the steel plate connected.  It will be critical to place the connections as not to impair duct placement.  Where LVL studs come to the bottom of existing floor joists at level 2 (as shown in the photo), the studs can be attached to the joists typical to the connection below level 4 utilizing H2.5 framing anchors.  The framing is in progress. Details provided in the construction documents or by sketch should be followed and completed.",2021-05-07,2021-05-14,Field Report Task,Rockhill Construction,Wood Framing,2021-05-07,,True,True,,
+T1.9541251,Opened,Historical Level 2 AE102,"ARW 63-1 At Grids HC / H2 there is an HSS column on the south side of the stone column supporting two steel beams at level 2. The HSS steel column interferes with the space required for a door placement.    
+ After reviewing this condition as it is in place, it was determined that the beams can be supported by the steel collar at the top of the stone column.  Specific details regarding the attachment of the beams and the “cut-off” off of the HHS column will be provided by detail from ARW",2021-05-07,2021-05-14,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,,
+T1.9541250,Opened,Historical Level 2 AE102,"ARW 62-6 The double LVL joist supporting the LVL walls on Level 2 are currently detailed to be attached to the stone wall at Grid HF and H4 with a steel saddle.  Rockhill asked if this was necessary since there is a stone pilaster at this location that the joist could bear on instead of using a steel saddle. Bearing the joist on the stone pilaster is an acceptable solution.  Please provide a treated lumber plate on top of the pilaster for the double LVL joist to bear on.  Install full height blocking between the joist on each side of the new LVL joist.  In addition, the double LVL joist supporting the wall studs is also acceptable to act as the double LVL joist shown in the plan view that supports the new duct openings through the floor.",2021-05-07,2021-05-14,Field Report Task,Rockhill Construction,Wood Framing,2021-05-07,,True,True,,
+T1.9541249,Opened,Historical Level 0.5 AE100B,ARW 62-5 North addition clothing drop openings need holes cut into the suspended concrete slab on metal deck.   Please provide a steel frame below the metal deck as shown in detail 12/S202.,2021-05-07,2021-05-14,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,,,
+T1.9541248,Opened,Historical Level 0.5 AE100B,ARW 62-2 I had a conversation with Rockhill framing regarding the LVL connections at the floor qnd the use of the steel side plates.  Currently there are two different sizes of plates specified in detail 10/S244 and Rockhill was asking if those two different sized plate applications can be interchangeable. It was discussed that two smaller plates can be substituted for a single larger plate if needed.,2021-05-07,2021-05-14,Field Report Task,Rockhill Construction,Wood Framing,2021-05-07,,True,True,,
+T1.9541212,Opened,Historical Level 0.5 AE100B,"ARW 62-1  The headers in the confirmation rooms on level 0.5 have a ½” clear space between the top of the steel plate and the bottom of the reinforcing steel.  Dion is also worried about the concrete consolidating properly when it is placed in this header. In discussion with Dion and Josh, a self-consolidating concrete mix will be used in this area.  The mix will also contain 3/8” max pea gravel aggregate.  It was also discussed that Innovative needs to form these concrete pours in a way that allows for concrete to surcharge at the form inlets to allow for better consolidation of the concrete at the top of the pour.",2021-05-07,2021-05-14,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541097,Opened,Historical Level 0.5 AE100B,"ARW 61-9 HSS post clip angles for posts at grid H1 and HC The posts at this location are detailed to be anchored back to the stone wall as shown in detail 17/S212.  The clips have not been welded to the HSS posts yet as it was not understood that the anchors need to be installed.  Additionally, the posts will be located against the pilaster in the stone such that the clips will not be able to be anchored to the stone on the “outside” of the posts.  It is acceptable to just install the clips on the inside (between the two posts) and omit the clips on the outside.",2021-05-07,2021-05-13,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,,
+T1.9541096,Opened,Historical Level 5 AE105,"ARW 61-6 Duct opening at level 5 Noted a gap between the steel plate and the infill at the duct opening for level 5.  Pointed out to Dion that the gaps need to be infilled and the grout used needs to be flowable, so all voids are filled.",2021-05-07,2021-05-13,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541095,Opened,Historical Level 0.5 AE100B,ARW 61-5 Mechanical opening infill at 3rd level Noted that the infill did not fill entire opening.  Pointed this out to Jason and he indicated that he will make sure it is filled.,2021-05-07,2021-05-13,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,True,
+T1.9541094,Opened,Historical Level 0.5 AE100B,ARW 61-4 - Top of LVL studs at level 4 Discussed the condition of the LVL studs with Dion and Creg and the challenge to brace the top of the wall because of the duct work and piping that needs to extend into and through the wall.  H2.5 as installed are acceptable but blocking should be installed between the joists where possible as shown in the detail provided by ARW in ASI 123.  East bays where duct and piping has already been installed needs to be removed for studs to be able to extend to and connect to framing.  If this is not possible Westland should notify CRSA and ARW to explore an alternate solution.,2021-05-07,2021-05-13,Field Report Task,Rockhill Construction,Wood Framing,2021-05-07,,True,True,,
+T1.9541093,Opened,Historical Level 0.5 AE100B,ARW 61-3 - Space between clip anchor and stone column at HSS post Discussed with Dion that it is acceptable to place a shim or plate washer between the clip anchor and the stone to allow for the screen anchors to be tightened.,2021-05-07,2021-05-13,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,,
+T1.9541092,Opened,Historical Level 0.5 AE100B,ARW 59.7 – The existing ceiling framing of the Level 5 east tower room needs to be removed to make way for the installation of the new ceiling and tower support beams.  It has been discovered that this ceiling framing is providing some support to the stud walls that wrap the perimeter of the stone tower walls.  It also appears to be supporting the tower floor framing that is directly above this ceiling.   This issue was discussed with Kyle and Josh and it was determined that a CCD will be issued to provide direction for supporting the existing stud walls and floor framing from the new steel beams.,2021-05-07,2021-05-13,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,True,
+T1.9541091,Opened,Historical Level 0.5 AE100B,"ARW 59.6 – The channel on the east side of the wood beam at Grids H4 and HB.5 is missing bolts from the channel to the connection plate. 
+
+Please install bolts as required to finish the connection.  The bolts can be ¾” Dia x 6” long lag screws that are drilled into the wood beam.  The bolts need to be a minimum of 36ksi in strength. This should be done before the new floor is accessible and loaded with work traffic.",2021-05-07,2021-05-13,Field Report Task,Glassey Steel Works,Structural Steel,2021-05-07,,True,True,,
+T1.9541090,Opened,Historical Level 0.5 AE100B,"ARW 59.4 – There are several holes in the stone wall near Grids H5 and HB.5 that need to be grouted solid.
+
+Clarified with Josh that these holes could be grouted solid with either a thin concrete slurry mix or a dry pack grout as long as the entire void is filled with concrete.",2021-05-07,2021-05-13,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541089,Opened,Historical Level 0.5 AE100B,"ARW 59.4 - Level 0.5 closet opening was discussed about the need to infill the entire space above the door head with concrete.   
+
+Refer to detail 17/S245 to concrete information around this opening.  It is acceptable to install a 16” deep concrete header directly above the closet door and then extend 6” concrete jambs above the header on each side of the opening.  Another concrete header can then be built below the required duct penetration at the top of the existing opening.",2021-05-07,2021-05-13,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9541088,Opened,Historical Level 2 AE102>211 - Instruction Room B,"ARW 59.2 - The LVL wall on the 2nd floor on Grid HC has some door king studs that do not line up with studs below so they are not supported at the 2
+nd floor
+
+A conversation was had with CRSA, Westland, and Rockhill about this issue.  It was determined that blocking could be installed at the floor level, panning 
+east/west and supported by the steel beams.  The LVL studs could then be supported by this blocking and attached to the blocking using steel plates similar to those used elsewhere with these walls.  Please see attached sketch for the blocking 
+requirements at this area.",2021-05-07,2021-05-13,Field Report Task,Rockhill Construction,Wood Framing,2021-05-07,,True,True,,
+T1.9541087,Opened,Historical Level 1 AE101A,"ARW Field Report 59.1 - Josh asked if the new concrete jambs around the opening for door 190A can be 6” thick instead of 8” as specified in detail 17/S245.
+
+6” concrete jambs at this door is acceptable. 
+Please provide the reinforcing as shown in detail 17/S245.",2021-05-07,2021-05-13,Field Report Task,"Innovative Concrete, LLC",Concrete,2021-05-07,,True,True,,
+T1.9539631,Superintendent Signed Off,Historical Level 3 AE103,"Electrical Observation Report: 4/16/2021; Item 19
+Temple – LV 3 
+IT conduits appear to exceed 180-degree bends. Refer to project specifications to confirm maximum degrees 
+between pull points.  
+ 
+Manufacturer warranties can be voided if manufacturer required degrees are exceeded. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539630,Superintendent Signed Off,Historical Level 3 AE103,"Electrical Observation Report: 4/16/2021; Item 16
+Temple – LV 3
+NEC 358.14 identifies dissimilar metals cannot be in contact due to galvanic effects. Electrical raceways should not be in contact with different metals. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539629,Superintendent Signed Off,Historical Level 0 AE100A,"Electrical Observation Report: 4/16/2021; Item 13
+Temple - Basement 
+No electrical rough and floor box for the computer 
+equipment/desk was found in the area around the font. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539628,Superintendent Signed Off,Annex Level 1 AE101,"Electrical Observation Report: 4/16/2021; Item 12
+Annex – Level 1 
+Installation of conduit is resulting in removal of fire protection materials from structural steel beams. Recommend re-application of fire protection material to all affected areas. This issue was observed throughout 
+the facility. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539627,Superintendent Signed Off,Annex Level 1 AE101,"Electrical Observation Report: 4/16/2021; Item 11
+Annex – Level 1 
+NEC 358.14 identifies dissimilar metals cannot be in contact due to galvanic effects. Electrical raceways 
+should not be in contact with different metals. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539626,Superintendent Signed Off,Annex Level 0AE100,"Electrical Observation Report: 4/16/2021; Item 9
+Annex – Basement  
+Cable trays appear to be installed in an organized manner. Installation is resulting in removal of fire protection materials from structural steel beams. Recommend re-application of fire protection material to all affected areas. This issue was observed throughout the facility. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539624,Superintendent Signed Off,Annex Level 0AE100,"Electrical Observation Report: 4/16/2021; Item 5
+Annex – Basement 
+ It appears conduit is not supported per NEC 344.30 at some electrical junction boxes. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539622,Superintendent Signed Off,Annex Level 0AE100,"Electrical Observation Report: 4/16/2021: Item 4
+Annex – Basement 
+Installation of electrical J-boxes and conduit support is resulting in removal of fire protection materials from structural steel beams. Recommend re-application of fire protection material to all affected areas. This issue was observed throughout the facility. ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,
+T1.9539621,Completed,Annex Level 0AE100,"Electrical Observation Report: 4/16/2021; item #2. 
+Annex – Basement 
+It appears that there are inconsistencies in the support of electrical conduit routed through bored holes in drywall per NEC 344.30. There appears to be a lack of conduit support in some locations.  ",2021-04-29,2021-05-06,Field Report Task,Wilkinson Electric Inc,Electrical,2021-08-31,,True,True,True,False
+T1.9539000,Superintendent Signed Off,Annex Level 1 AE101,Missing laundry bell,2021-04-23,2021-04-16,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,ForwardedFrom,False,True,True,False
+T59123.46,Superintendent Signed Off,Annex Level 1 AE101>162 - Instruction Women,Center all diffusers and fixtures in walls within each space as per RFI direction,2021-04-22,2021-04-25,Punch List,US Mechanical,Plumbing,2021-10-22,,False,False,False,False
+T1.9536908,Opened,Historical Level 5 AE105,"ARW 62-4 - Level 5 concrete infill frames and pillow blocks have some gaps between the stone wall and concrete infill. 
+
+Discussed this with Josh and he said they will make sure these gaps are grouted solid. ",2021-04-19,2021-04-26,Punch List,"Westland Construction, Inc.",Westland -- Historic,2021-04-19,,True,,,True
+T1.9536906,Completed,Historical Level 5 AE105,"ARW 62-5 - North addition clothing drop openings need holes cut into the suspended concrete slab on metal deck.
+
+Please provide a steel frame below the 
+metal deck as shown in detail 12/S202.",2021-04-19,2021-04-26,Punch List,Glassey Steel Works,Structural Steel,2021-10-11,,True,False,True,True
+T59123.45,Superintendent Signed Off,Historical Level 4 AE104>409 - Vestibule,Mount fire suppression heads,2021-04-12,2021-04-14,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-05-20,,False,True,True,False
+T59123.44,Superintendent Signed Off,Historical Level 4 AE104>409 - Vestibule,Missing wireless access point,2021-04-12,2021-04-16,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.43,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Hydronic need to be tied in to fan coil units and insulated,2021-04-12,2021-04-19,Punch List,US Mechanical,HVAC,2021-05-28,,False,False,False,False
+T59123.42,Opened,Historical Level 4 AE104>410 - Study,Controls to be tied into fan coil units,2021-04-12,2021-04-19,Punch List,US Mechanical,HVAC,2021-10-22,,True,False,True,False
+T59123.41,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Power tied in to fan coil units,2021-04-12,2021-04-16,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.40,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Install light switch,2021-04-12,2021-04-16,Punch List,Wilkinson Electric Inc,Electrical,2021-05-21,,False,False,False,False
+T59123.39,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Install light switch,2021-04-12,2021-04-16,Punch List,Wilkinson Electric Inc,Electrical,2021-04-12,,False,False,True,False
+T59123.38,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Relocate fire line be above ceiling elevation,2021-04-12,2021-04-14,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-05-20,,False,False,True,False
+T59123.37,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Install can lights at north side after shoring removed,2021-04-12,2021-04-14,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.36,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Can light need to be daisy chained,2021-04-12,2021-04-19,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.35,Superintendent Signed Off,Historical Level 4 AE104>411 - Vestibule,Mount fire suppression heads,2021-04-12,2021-04-16,Punch List,Broken Arrow Construction Corporation,Fire Suppression,2021-05-20,,False,True,False,False
+T59123.34,Superintendent Signed Off,Historical Level 4 AE104>410 - Study,Missing tstat,2021-04-12,2021-04-16,Punch List,US Mechanical,HVAC,2021-10-22,,False,False,False,False
+T59123.33,Superintendent Signed Off,Annex Level 1 AE101>179 - Waiting,Electrical rough not 8” off casing,2021-04-09,2021-04-16,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T55794.1,Superintendent Signed Off,Annex Level 1 AE101,"light switch in wrong location
+",2021-03-17,2021-03-29,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T59123.32,Superintendent Signed Off,Annex Level 1 AE101>104 - interview,Missing floor outlet,2021-03-05,2021-03-09,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,False,True,False
+T59123.31,Superintendent Signed Off,Annex Level 1 AE101>117 - Office 1,Missing electrical floor box,2021-03-05,2021-03-10,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,False
+T59123.30,Superintendent Signed Off,Annex Level 1 AE101>112 - President,Electrical devices are a little low. Adjust to proper height.,2021-03-05,2021-03-09,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.29,Superintendent Signed Off,Annex Level 1 AE101>112 - President,All devices next to door are a little low. Adjust to proper height.,2021-03-05,2021-03-09,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T59123.28,Completed,Annex Level 1 AE101>136 - Instruction - Brother,Alignment of rough in for this room being verified with design team - pending RFI response,2021-03-05,2021-03-10,Punch List,US Mechanical,HVAC,2021-12-03,,True,False,True,False
+T59123.27,Superintendent Signed Off,Annex Level 1 AE101>135 - Workers Dressing - Men,Rough in session clock after framing is complete,2021-03-05,2021-03-10,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T59123.26,Superintendent Signed Off,Annex Level 1 AE101>132A - Clothing,Missing WAP rough in,2021-03-03,2021-03-05,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.25,Completed,Annex Level 1 AE101>132A - Clothing,Missing duress button,2021-03-03,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-08-30,,True,False,True,False
+T59123.24,Completed,Annex Level 1 AE101>132A - Clothing,Missing laundry bell,2021-03-03,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2022-03-04,ForwardedTo,True,True,True,False
+T59123.23,Superintendent Signed Off,Annex Level 1 AE101>132A - Clothing,Missing electrical conduit rough in at session clock,2021-03-03,2021-03-10,Punch List,Wilkinson Electric Inc,Electrical,2022-08-11,,False,True,True,False
+T59123.22,Completed,Annex Level 1 AE101>132 - Clothing,Verify electrical layout is centered per C3/A4116,2021-03-03,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2022-03-04,,True,False,True,False
+T59123.21,Superintendent Signed Off,Annex Level 1 AE101>138 - Folding,Outlet not centered between doors. Need to review with layout of sconces.,2021-03-01,2021-03-08,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.20,Superintendent Signed Off,Annex Level 1 AE101>138 - Folding,Outlet not centered between doors.,2021-03-01,2021-03-03,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.19,Superintendent Signed Off,Annex Level 1 AE101>139 - Vest,Electrical box needs conduit tied in,2021-03-01,2021-03-03,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,False,False
+T59123.18,Superintendent Signed Off,Annex Level 1 AE101>110 - Chapel,Framing below windows to be adjusted to accommodate HVAC grills typical this room,2021-03-01,2021-03-08,Punch List,Pete King Construction,Metal Stud / Drywall,2021-10-22,,False,True,False,False
+T59123.17,Superintendent Signed Off,Annex Level 1 AE101>133 - Instruction Men,HVAC not symmetrical on wall but per architectural dwgs - rfi,2021-03-01,2021-03-03,Punch List,US Mechanical,HVAC,2021-10-22,,False,True,True,False
+T59123.16,Superintendent Signed Off,Annex Level 1 AE101>134 - Men,"Above Counter Outlet alignment ",2021-03-01,2021-03-03,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T59123.15,Superintendent Signed Off,Annex Level 1 AE101>140 - Booth - Men,Missing power outlet,2021-02-25,2021-03-02,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.14,Superintendent Signed Off,Annex Level 1 AE101>140 - Booth - Men,Missing outlet - shaft wall not yet framed,2021-02-25,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.13,Superintendent Signed Off,Annex Level 1 AE101>140 - Booth - Men,Power outlet missing,2021-02-25,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.12,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Power outlet missing,2021-02-25,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.11,Superintendent Signed Off,Annex Level 1 AE101>140 - Booth - Men,Insulation of mechanical piping at mechanical shaft,2021-02-25,2021-03-01,Punch List,US Mechanical,Plumbing,2021-10-22,,False,True,True,False
+T59123.10,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Layout of outlets at south wall not per plan,2021-02-25,2021-02-26,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.9,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Verify Outlet is located correctly at 141a,2021-02-25,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.8,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Verify Outlet is located correctly at 141a,2021-02-25,2021-03-26,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.7,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Missing WAP rough in box,2021-02-25,2021-03-05,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,False,False
+T59123.6,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Electrical rough needs to be completed at this wall,2021-02-25,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,False,False
+T59123.5,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Electrical rough in incomplete this wall,2021-02-25,2021-03-04,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,True,False
+T59123.4,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Exit Sign Mounting Elevation Too High,2021-02-25,2021-03-01,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,False,True,False
+T59123.3,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Missing Tstat,2021-02-25,2021-03-01,Punch List,US Mechanical,HVAC,2021-10-22,,False,False,False,False
+T59123.2,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Exit Sign Mounting Elevation Too High,2021-02-25,2021-03-01,Punch List,Wilkinson Electric Inc,Electrical,2021-10-22,,False,True,False,False
+T59123.1,Superintendent Signed Off,Annex Level 1 AE101>141 - Dressing Men,Missing Tstat,2021-02-25,2021-02-26,Punch List,US Mechanical,HVAC,2021-10-22,,False,False,False,False
