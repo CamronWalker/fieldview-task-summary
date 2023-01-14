@@ -6,8 +6,8 @@ Sub Resize_Task_Summary_Table()
     'Get resize length from imported Index
     wsLength = WorksheetFunction.Max(Sheets("Tasks_Import").ListObjects("Tasks").ListColumns("Index").Range)
         
-    'Resize the table UPDATE COLUMNS IF NEEDED
-    Sheets("Task_Summary").ListObjects("Task_Summary_Table").Resize Range("A1:I" & wsLength + 1)
+    'Resize the table UPDATE COLUMNS IF NEEDED  <<----------------------------------------------------------------------  REMEMBER
+    Sheets("Task_Summary").ListObjects("Task_Summary_Table").Resize Range("A1:J" & wsLength + 1)
 End Sub
 
 
