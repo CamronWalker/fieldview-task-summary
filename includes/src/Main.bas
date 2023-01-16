@@ -57,7 +57,7 @@ Sub Update_Date_Totals()
 End Sub
 
 Sub CopyToDatedTable()
-    
+    TurnOffFunctionality
     Dim TS_Table As ListObject
     Dim TS_DatedTable As ListObject
     Dim tableDateVar As Date
@@ -87,7 +87,36 @@ Sub CopyToDatedTable()
     
     Worksheets("Tables").ListObjects("TS_Table_Dates_Table").ListRows.Add.Range(1) = tableDateVar
     
+    'Fix Hyperlinks
+    Dim urlStart As String
+    Dim vRow As Range
+    
+    urlStart = Range("Edit_URL").Value
+    For Each vRow In Worksheets(TS_TableName).ListObjects(TS_TableName + "_Table").ListColumns("Task Number").DataBodyRange.Rows
+        vRow.Formula = "=HYPERLINK(""" & urlStart & vRow.Value & """, """ & vRow.Value & """)"
+    Next vRow
+    
+    TurnOnFunctionality
 End Sub
 
+
+Sub SubConDataUpdate()
+    'this exists because the filter fuction doesn't copy in hyperlinks :/ So I have to do this manually...
+    ' =FILTER(INDIRECT("TS_"&TEXT(Current_Data_Date,"yyyy\_MM\_dd")&"_Table"), (INDIRECT("TS_"&TEXT(Current_Data_Date,"yyyy\_MM\_dd")&"_Table[To Org]")=$D$2)*(INDIRECT("TS_"&TEXT(Current_Data_Date,"yyyy\_MM\_dd")&"_Table[Status]")<>"Signed Off"))
+        
+    Dim vRow As Range 'for Row Value
+    Dim dataDate As Date
+        
+    dataDate = Range("Current_Data_date").Value
+    Data
+    
+    
+    For Each vRow In Worksheets("SHEETNAME").ListObjects("TABLENAME").ListColumns("TABLE_COLUMN NAME").DataBodyRange.Rows
+        ' Use vRow as needed in the loop
+    Next vRow
+
+
+
+End Sub
 
 
