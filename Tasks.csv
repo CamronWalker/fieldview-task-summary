@@ -1,4 +1,41 @@
 ﻿Ref,Status,Location,Description,Created,Target,Type,To Organisation,To Package,Status Changed,Association,OverDue,Images,Comments,Documents
+T1.9726459,Opened,Annex Level 0AE100,"Site Observation Report 11/17/2022, Item 4:
+Circuit Labels HC Pumps Switches: The switches for the HC circulation pumps near the Air Handlers need circuit labels installed. See Photo 5. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,,,
+T1.9726458,Opened,Annex Level 0AE100,"Site Observation Report 11/17/2022, Item 3:
+Missing Electrical Box Cover: The cover on the electrical box is missing near the chiller. See Photo 4. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,,,
+T1.9726457,Opened,Annex Level 0AE100,"Site Observation Report 11/17/2022, Item 2:
+HDSP Switch Interference: The High Duct Static Pressure switch reset is located close to the vertical piping of the Steam 
+Generator of AHU4. If movement of the steam line occurs is there a possibility of it pushing the reset? Can the HDS switch be moved a short distance to avoid a potential problem? See Photo 3. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,,,
+T1.9726456,Opened,Annex Level 0AE100,"Site Observation Report 11/28/2022, Item 1:
+Seismic Restraints Disconnected or Loose:  The seismic straps located on the support unistrut for the ductwork near 
+AHU4 has been disconnected. This has been repaired while I was at the site. Additional restraints are loose in different locations. See Photos 1 and 2. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,,,
+T1.9726455,Opened,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 13:
+AHU-1 Fan Faults: The AHU-1 Supply Fans and Return Fans are in fault and need to be corrected. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,,,
+T1.9726454,Opened,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 12:
+RL-1 Louver Air Leakage: The ductwork around the louver RL-1, north mechanical room, leaks air and needs to be sealed with duct sealant. See Photo 14. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
+T1.9726453,Opened,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 11:
+Piping Labeling: The piping that is accessible through ceiling access doors should be labeled according to Identification for Plumbing Piping Specification, paragraph 3.3 C.4. See Photo 13. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
+T1.9726452,Complete,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 10:
+Boiler Disconnect Permanent Labels: Missing permanent labels on the Boiler Disconnects. See Photo 12. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-17,,False,True,True,
+T1.9726451,Complete,Annex Level 0AE100,"Site Observation Report 2022-12-21, Items 9:
+FC-0-18B Air Filter Removal: Fan Coil FC-0-18B air filter may be difficult to remove without damage to filter due location of pipe and insulation. Also, is the filter the correct type for final filter? See Photo 11. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-17,,False,True,True,
+T1.9726450,Complete,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 8:
+Missing Thermometer AHU-3 CHW line: There appear to be a missing thermometer for one of the CHW lines of AHU-3. See Photo 10. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-17,,False,True,True,
+T1.9726449,Complete,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 7:
+Natural-Gas Piping Painting: All exposed, exterior, and interior metal natural-gas piping required to be painted per Specification 23 1123, paragraph 3.10. See Photos 8 and 9. 
+",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-17,,False,True,True,
+T1.9726448,Complete,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 6:
+CT-2 Leaking Valve: The Condenser Water Valve is leaking on CT-02. See photos 6 and 7.",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-17,,False,True,True,
+T1.9726447,Opened,Annex Level 0AE100,"Site Observation Report 2022-12-22, Item 5:
+Damaged Pipe Insulation: The pipe insulation by Chiller 3 is damaged and needs to be repaired. See Photo 5. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
+T1.9726446,Opened,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 4:
+CH-3 Thermometers: All liquid-in-glass thermometers are required to be Die Cast Aluminum or Brass per Specification 23 0519, paragraph 2.1. See Photo 4. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
+T1.9726445,Opened,Annex Level 0AE100,"Site Observation Report 2021-12-21, Item 3:
+Pressure Gauges: Several pressure gauges in multiple areas of the Temple and Annex are the incorrect type, they are required to be Liquid-filled type per Specification 23 0519, paragraph 2.3. See Photo 3. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
+T1.9726444,Opened,Annex Level 0AE100,"Site Observation Report 2022-12-21, Item 2:
+Permanent Labeling of sensors: Add permanent labels for AHU’s sensors, and safety devices. See Photo 2. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
+T1.9726443,Opened,Annex Level 0AE100,"Site Visit Report 12/29/2022, Item 1:
+AHU1 Missing Pipe Support: Above AHU1, remove piece of pvc pipe under heat piping and install proper pipe support and complete with proper pipe insulation. ",2023-01-16,2023-01-23,Field Report Task,US Mechanical,HVAC,2023-01-16,,False,True,,
 T77364.32,Opened,Site Main>Site Area I,Chipped concrete was caulked over.,2023-01-16,2023-01-23,Quality Control,"Innovative Concrete, LLC",Concrete,2023-01-16,,False,True,False,False
 T77364.31,Opened,Site Main>Site Area D,Ground wire needs to be cored through wall,2023-01-16,2023-01-23,Quality Control,Wilkinson Electric Inc,Electrical,2023-01-16,,False,True,False,False
 T77364.30,Opened,Site Main>Site Area D,Clean concrete splashed on building,2023-01-13,2023-01-20,Quality Control,"Innovative Concrete, LLC",Concrete,2023-01-13,,False,True,False,False
@@ -608,7 +645,7 @@ T74290.520,Verified Complete (w/Photo),Annex Level 0AE100>003 - STORAGE,Install 
 T74290.519,Opened,Annex Level 1 AE101>178 - Nursery,Outlet covered by wall covering. install outlet,2022-10-19,2022-10-26,Quality Control,Wilkinson Electric Inc,Electrical,2022-10-19,,True,True,False,False
 T74290.518,Opened,Annex Level 0AE100>028 - Laundry,Remove paint from all hinges and hardware,2022-10-18,2023-01-03,Quality Control,"Accent Painting and Special Coatings, LLC",Paint,2022-10-18,,True,True,False,False
 T74290.517,Verified Complete (w/Photo),Annex Level 0AE100>005 - VESTIBULE,Replace chair rail to fit around switch plate,2022-10-18,2022-10-25,Quality Control,Fetzers' Inc.,"Finish Carpentry ",2022-10-19,,False,True,False,False
-T74290.516,Opened,Annex Level 0AE100>005 - VESTIBULE,Replaced dented stainless panel,2022-10-18,2023-01-03,Quality Control,"Westland Construction, Inc.",Westland -- Annex,2022-10-18,,True,True,False,False
+T74290.516,Complete,Annex Level 0AE100>005 - VESTIBULE,Replaced dented stainless panel,2022-10-18,2023-01-03,Quality Control,"Westland Construction, Inc.",Westland -- Annex,2023-01-18,,True,True,False,False
 T74290.515,Verified Complete (w/Photo),Annex Level 0AE100>030 - Clothing Drop,"Install sprinkler escutcheon ",2022-10-18,2022-10-25,Quality Control,Broken Arrow Construction Corporation,Fire Suppression,2022-11-04,,False,True,False,False
 T74290.514,Verified Complete (w/Photo),Annex Level 0AE100>028 - Laundry,Touch up around dryer box,2022-10-18,2022-10-25,Quality Control,"Accent Painting and Special Coatings, LLC",Paint,2022-11-17,,False,True,False,False
 T74290.513,Opened,Annex Level 0AE100>048 - Restroom,Needs strike plate,2022-10-18,2023-01-03,Quality Control,Fetzers' Inc.,"Finish Carpentry ",2022-10-18,,True,True,False,False

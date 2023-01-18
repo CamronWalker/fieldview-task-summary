@@ -156,7 +156,9 @@ Sub SubConDataUpdate()
         
     End If
 
-    Range("Filter_Sub_Name").Select 'Only there because it's cleaner to select the filter cell after a new selection
+    Application.CutCopyMode = False
+
+    If ActiveSheet.Name = "Emailer_Sub_Data" Then Range("Filter_Sub_Name").Select 'Only there because it's cleaner to select the filter cell after a new selection
 
     'UPDATE PRINT AREA
     With Worksheets("Emailer_Sub_Data").ListObjects("Emailer_Sub_Data_Item_List_Table")
