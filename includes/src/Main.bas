@@ -89,7 +89,10 @@ Sub CopyToDatedTable()
     
     Worksheets("Tables").ListObjects("TS_Table_Dates_Table").ListRows.Add.Range(1) = tableDateVar
     
-
+    urlStart = Range("Edit_URL").Value
+    For Each vRow In Worksheets(TS_SheetName).ListObjects(TS_TableName).ListColumns("Task Number").DataBodyRange.Rows
+        vRow.Formula = "=HYPERLINK(""" & urlStart & vRow.Value & """, """ & vRow.Value & """)"
+    Next vRow
     
     TurnOnFunctionality
 End Sub
