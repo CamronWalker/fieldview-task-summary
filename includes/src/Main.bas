@@ -96,7 +96,7 @@ End Sub
 
 
 Sub SubConDataUpdate()
-TurnOffFunctionality
+'TurnOffFunctionality
     'this exists because the filter fuction doesn't copy in hyperlinks :/ So I have to do this manually...
     ' =FILTER(INDIRECT("TS_"&TEXT(Current_Data_Date,"yyyy\_MM\_dd")&"_Table"), (INDIRECT("TS_"&TEXT(Current_Data_Date,"yyyy\_MM\_dd")&"_Table[To Org]")=$D$2)*(INDIRECT("TS_"&TEXT(Current_Data_Date,"yyyy\_MM\_dd")&"_Table[Status]")<>"Signed Off"))
         
@@ -132,7 +132,7 @@ TurnOffFunctionality
         
         Worksheets(dataDateSheetName).ListObjects(dataDateTableName).DataBodyRange.Copy
         
-        Range(findAddress).PasteSpecial xlPasteValues
+        Worksheets("Emailer_Sub_Data").Range(findAddress).PasteSpecial xlPasteValues
         
         Worksheets("Emailer_Sub_Data").Range("Emailer_Sub_Data_Item_List_Table[Status]:Emailer_Sub_Data_Item_List_Table[Due]").FormatConditions.Delete
         
@@ -162,7 +162,7 @@ TurnOffFunctionality
     
     Worksheets("Emailer_Sub_data").PageSetup.PrintArea = "$G$2:$P$" & bottomRow
 
-TurnOnFunctionality
+'TurnOnFunctionality
 
 End Sub
 

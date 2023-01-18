@@ -157,3 +157,45 @@ Public Sub TurnOnFunctionality()
     Application.EnableEvents = True
     Application.ScreenUpdating = True
 End Sub
+
+
+
+Public Sub MyMkDir(sPath As String)
+'https://www.devhut.net/2011/09/15/vba-create-directory-structurecreate-multiple-directories/
+
+    Dim iStart          As Integer
+    Dim aDirs           As Variant
+    Dim sCurDir         As String
+    Dim i               As Integer
+ 
+    If sPath <> "" Then
+        aDirs = Split(sPath, "\")
+        If Left(sPath, 2) = "\\" Then
+            iStart = 3
+        Else
+            iStart = 1
+        End If
+ 
+        sCurDir = Left(sPath, InStr(iStart, sPath, "\"))
+ 
+        For i = iStart To UBound(aDirs)
+            sCurDir = sCurDir & aDirs(i) & "\"
+            If Dir(sCurDir, vbDirectory) = vbNullString Then
+                MkDir sCurDir
+            End If
+        Next i
+    End If
+End Sub
+Function FileExists(FilePath As String) As Boolean
+    Dim TestStr As String
+    TestStr = ""
+    On Error Resume Next
+    TestStr = Dir(FilePath)
+    On Error GoTo 0
+    If TestStr = "" Then
+        FileExists = False
+    Else
+        FileExists = True
+    End If
+End Function
+
