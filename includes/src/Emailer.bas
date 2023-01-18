@@ -43,7 +43,11 @@ Function Emailer(subName As String, subEmails As String)
         False
 
     'OPEN EMAIL
-    e = SendEmail("DISPLAY", subName, subEmails, Worksheets("Emailer_Sub_Data").Range("G2").Value & "(" & Worksheets("Emailer_Sub_Data").Range("T6").Value & ")", Worksheets("Emailer_Sub_Data").Range("R2").Value, Worksheets("Emailer").Range("F3").Value, attachmentFilePath)
+    emailBody = Range("Email_Body").Value
+    emailBody = Replace(emailBody, "<<SUB NAME>>", subName)
+    emailSubject = Worksheets("Emailer_Sub_Data").Range("G2").Value & " (" & Worksheets("Emailer_Sub_Data").Range("T6").Value & " Past Due)"
+    
+    e = SendEmail("DISPLAY", subName, subEmails, emailSubject, emailBody, Worksheets("Emailer").Range("F3").Value, attachmentFilePath)
     
 End Function
 

@@ -124,7 +124,9 @@ Sub SubConDataUpdate()
     
     isEmptyList = errorCatchEmptyFilter(Worksheets(dataDateSheetName).ListObjects(dataDateTableName).DataBodyRange)
     
+    Worksheets("Emailer_Sub_Data").ListObjects("Emailer_Sub_Data_Item_List_Table").ListRows.Add (1)
     Worksheets("Emailer_Sub_Data").ListObjects("Emailer_Sub_Data_Item_List_Table").ListRows.Add.Range(1) = "NO OPEN ITEMS FOUND"
+        
     
     If isEmptyList = False Then
     
