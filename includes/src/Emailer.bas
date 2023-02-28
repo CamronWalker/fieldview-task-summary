@@ -43,9 +43,9 @@ Function Emailer(subName As String, subEmails As String)
         False
 
     'OPEN EMAIL
-    emailBody = Range("Email_Body").Value
+    Dim emailBody As String: emailBody = Range("Email_Body").Value
     emailBody = Replace(emailBody, "<<SUB NAME>>", subName)
-    emailSubject = Worksheets("Emailer_Sub_Data").Range("G2").Value & " (" & Worksheets("Emailer_Sub_Data").Range("T6").Value & " Past Due)"
+    Dim emailSubject As String: emailSubject = Worksheets("Emailer_Sub_Data").Range("G2").Value & " (" & Worksheets("Emailer_Sub_Data").Range("T6").Value & " Past Due)"
     
     e = SendEmail("DISPLAY", subName, subEmails, emailSubject, emailBody, Worksheets("Emailer").Range("F3").Value, attachmentFilePath)
     
